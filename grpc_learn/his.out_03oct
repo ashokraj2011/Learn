@@ -1,0 +1,3578 @@
+    1  ld -lyr
+    2  q
+    3  ls -ltr
+    4  cat r.json
+    5  q
+    6  sftp ashok@192.168.56.102
+    7  ls
+    8  cat load.py
+    9  cat load.py
+   10  exit
+   11  sftp ashok@192.168.56.102
+   12  pwd
+   13  ls
+   14  ls -ltra
+   15  pwd
+   16  cp k.json ./PycharmProjects/study
+   17  exit
+   18  cd Documents
+   19  ls -ltr
+   20  cd  /Users/ashokraj/PycharmProjects
+   21  ls
+   22  cd study
+   23  ls
+   24  pwd
+   25  pwd
+   26  cd 
+   27  cd Downloads
+   28  ls -ltr *.json
+   29  pwd
+   30  cd ..
+   31  de Desktop
+   32  ls -ltr *.json
+   33  pwd
+   34  cd Desktop
+   35  ls -ltr *.json
+   36  cp 2020126_data.json /Users/ashokraj/PycharmProjects/study\n
+   37  cd /Users/ashokraj/PycharmProjects/study\n
+   38  ;s
+   39  ls
+   40  vi p.txt
+   41  cat p.txt
+   42  vi p.txt
+   43  ls
+   44  cat k.json
+   45  cd /Users/ashokraj/PycharmProjects
+   46  ls
+   47  cd study
+   48  ls
+   49  vi c.json
+   50  vi c.json
+   51  vi c.json
+   52  python
+   53  exit
+   54  brew tap mongodb/brew
+   55  brew install mongodb-community@4.2
+   56  mongod
+   57  mongodb
+   58  mongodb
+   59  mongod
+   60  brew install mongodb-community@4.2
+   61  brew services start mongodb-community@4.2
+   62  mongod
+   63  mongo
+   64  mogo
+   65  mongo
+   66  ps aux | grep -v grep | grep mongod
+   67  brew services start mongodb-community@4.2
+   68  mongo
+   69  mongod --config /usr/local/etc/mongod.conf --fork
+   70  export PATH=$PATH:/usr/local/mongodb/bin
+   71  mongo
+   72  cd /
+   73  find / -name "mongodb" 
+   74  /usr/local/opt/mongodb
+   75  sudo /usr/local/opt/mongodb
+   76  cd /usr/local/opt/mongodb
+   77  ls
+   78  cd bin
+   79  ls
+   80  ./mongod
+   81  ls
+   82  ls -ltr
+   83  mongo
+   84  ./mongo
+   85  pwd
+   86  ./mongo
+   87  pwd
+   88  cd ..
+   89  ./bin/mongo
+   90  ./bin/mongo
+   91  pwd
+   92  sudo ./bin/mongo
+   93  brew install mongodb
+   94  cd /usr/local/Cellar
+   95  ls
+   96  cd mongodb
+   97  ls
+   98  cd 3.6.3
+   99  ls
+  100  ./bin/mongo
+  101  cd bin
+  102  ls
+  103  ./mongod
+  104  pwd
+  105  ls -ltr
+  106  ./mongo
+  107  mongo
+  108  sh mongo
+  109  mongod
+  110  mongod
+  111  cd Dow
+  112  brew services stop mongodb-community@4.2
+  113  cd
+  114  cd Downloads
+  115  cd mongodb
+  116  ls
+  117  cd mongodb-macos-x86_64-enterprise-4.2.3
+  118  ls
+  119  cd bin
+  120  ls
+  121  sudo chown -R `id -un` /data/db
+  122  mkdir /data/db
+  123  sudo mkdir /data/db
+  124  sudo mkdir /data
+  125  cd /data
+  126  mkdir -p data
+  127  sudo chown -R `id -un` data
+  128  pwd
+  129  ./mongodb
+  130  cd ..
+  131  ./bin/mongo
+  132  ./bin/mongo
+  133  /bin/mongod 
+  134  ./bin/mongod 
+  135  ./bin/mongod 
+  136  ls
+  137  cd bin
+  138  ls
+  139  cd ..
+  140  pwd
+  141  cd ..
+  142  ls
+  143  cd mongodb-macos-x86_64-enterprise-4.2.3
+  144  ls
+  145  cd MPL-2
+  146  ls
+  147  pwd
+  148  cd bin
+  149  ls
+  150  cd ..
+  151  ./bin/mongod --dbpath ./bin/data
+  152  exit
+  153  cd Downloads
+  154  cd mongodb
+  155  cd mongodb-macos-x86_64-enterprise-4.2.3
+  156  ls
+  157  ./bin/mongo
+  158  ]exit
+  159  exit
+  160  brew install jupyte
+  161  brew install jupyter
+  162  jupyter notebook\n
+  163  cd Desktop
+  164  ls *.jpg
+  165  ls *.png
+  166  rm -rf *.png
+  167  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  168  ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev\n\n
+  169  git
+  170  git clone ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev
+  171  git clone ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev ashokdevaws
+  172  git clone ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev 
+  173  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev
+  174  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev
+  175  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/ashokdev
+  176  git list
+  177  git
+  178  git branch list
+  179  git git branch -r
+  180  git branch -r
+  181  git branch -l
+  182  git branch -r
+  183  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  184  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  185  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  186  cd Documents
+  187  ls -ltr
+  188  ls *win*
+  189  ls *key*
+  190  ls -ltr
+  191  cd current_learning
+  192  ls
+  193  cd ..
+  194  cd ..
+  195  cd Desktop
+  196  ls -ltr
+  197  ls *.txt
+  198  cat k1.txt
+  199  cd ..
+  200  cd Documents
+  201  ls *.txt
+  202  cat en_BT6YGZCeOH0.txt
+  203  cat data
+  204  cat data.txt
+  205  cd ..
+  206  ls -ltr *.txt
+  207  cd Documents
+  208  ls -ltr *.txt
+  209  ls -ltr
+  210  cd MBA
+  211  ls
+  212  ls -ltr *.txt
+  213  cd ..
+  214  find ./ *.txt
+  215  find ./ *.txt | grep 'key'
+  216  find ./ *.txt | grep 'wib'
+  217  find ./ *.txt | grep 'win'
+  218  find ./ *.txt | grep 'windows'
+  219  find ./ *.txt | grep 'key'
+  220  find ./ *.vdi | grep 'key'
+  221  s -lr
+  222  ls -ltr vir*
+  223  ls -ltr Vir*
+  224  ls -ltr V*
+  225  ls -ltr
+  226  pwd
+  227  cd ..
+  228  ls
+  229  cd VirtualBox\ VMs
+  230  ls
+  231  rm ubuntu-17.10-desktop-amd64.iso
+  232  ls -ltr
+  233  cd ..
+  234  ls -ltr 
+  235  tail -100 java_error_in_
+  236  tail -100 java_error_in_idea.hprof
+  237  head -100 java_error_in_idea.hprof
+  238  head -100 java_error_in_idea.hprof | strings
+  239  ls -ltrh  java_error_in_idea.hprof 
+  240  rm java_error_in_idea.hprof
+  241  cd
+  242  id
+  243  python
+  244  exit
+  245  cd Documents
+  246  mkdir temp_as
+  247  cd te
+  248  cd temp_as
+  249  vi k.py
+  250  python k.py
+  251  python k.py
+  252  python k.py
+  253  python k.py
+  254  vi k.py
+  255  python k.py
+  256  vi k.py
+  257  python k.py
+  258  python
+  259  exit
+  260  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  261  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  262  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  263  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  264  cd
+  265  pwd
+  266  cd Documents/MBA
+  267  cd Python
+  268  ls
+  269  cd Project
+  270  ls
+  271  ls -ltr
+  272  pwd
+  273  cd
+  274  cd Downloads
+  275  ls -ltr
+  276  cp YouTube+Video+Statistics+1.csv ../Documents/MBA/Python/Project
+  277  cp Categories.csv ../Documents/MBA/Python/Project
+  278   ../Documents/MBA/Python/Projec
+  279  cd  ../Documents/MBA/Python/Project
+  280  ls -ltr
+  281  rm Categories.numbers
+  282  ls -ltr
+  283  cat YouTube+Video+Statistics+1.csv| more
+  284  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  285  conda install tornado=5.1.1 
+  286  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  287  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  288  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  289  /Users/ashokraj/.anaconda/navigator/a.tool ; exit;
+  290  /Users/ashokraj/anaconda/bin/jupyter_mac.command ; exit;
+  291  pip install tornado==4.5
+  292  cd Documents
+  293  pwd
+  294  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  295  vi b.txt
+  296  cat b.txt | awk -F " " '{ print $1 }'
+  297  cat b.txt | awk -F " " '{ print $2 }'
+  298  cat b.txt | awk -F " " '{ print $2"," }'
+  299  cat b.txt
+  300  cat b.txt
+  301  cat b.txt | awk -F " " '{ print $2"," }'
+  302  ifconfig
+  303  ifconfig -a
+  304  cd
+  305  cd Desktop
+  306  em b.txt
+  307  rm b.txt
+  308  vi b.txt
+  309  cat b.txt| awk -F "/"  '(print $2}'
+  310  cat b.txt| awk -F "\"  '(print $2}'\n
+  311  cat b.txt | awk -F "/"  '(print $2}'
+  312  cat b.txt | awk -F "\/"  '(print $2}'
+  313  cat b.txt | awk -F '\'  '(print $2}'
+  314  cat b.txt | awk -F '/'  '(print $2}'
+  315  cat b.txt | awk -F '/'  '(print $2}'
+  316  cat b.txt | awk -F   '(print $2}'
+  317  cat b.txt | awk -F   '(print $0}'
+  318  cat b.txt | awk -F""   '(print $0}'
+  319  cat b.txt | awk   '(print $0}'
+  320  cat b.txt | awk -F '\'  '{print $2}'
+  321  cat b.txt | awk -F '\'  '{print $1}'
+  322  cat b.txt | awk -F '/'  '{print $1}'
+  323  cat b.txt | awk -F '/'  '{print $2}'
+  324  cat b.txt | awk -F '/'  '{print $3}'
+  325  cat b.txt | awk -F '/'  '{print $3}' | grep *.cdv
+  326  cat b.txt | awk -F '/'  '{print $3}' | grep *.csv
+  327  cat b.txt | awk -F '/'  '{print $3}' | grep 'csv'
+  328  cd 
+  329  cd Downloads
+  330  ls -ltra
+  331  head "etlTest_Email Contacts_Bronto_1000_BrontoWPHub_Email_20200520-20000101.csv"
+  332  head "etlTest_Email Contacts_Bronto_1000_BrontoWPHub_Email_20200520-20000101.csv" > b.csv
+  333  cd Projects_Data_InvestPub
+  334  ls
+  335  ls -ltr
+  336  cd InfusionSoft_G_Drive
+  337  ls
+  338  cd
+  339  vi b.txt
+  340   bigquery.SchemaField("name", "STRING"),
+  341  cat b.txt -F"," '{print $1'}
+  342  cat b.txt -F"," '{print $1}'
+  343  cat b.txt -F "," '{print $1}'
+  344  cat b.txt
+  345  cat b.txt
+  346  cat b.txt -F "," '{ print $1 }'
+  347  cat b.txt awk -F "," '{ print $1 }'
+  348  cat b.txt | awk -F "," '{ print $1 }'
+  349  cat b.txt | awk -F "," '{  }'
+  350  'BEGIN { for (i = 1; i <= 5; ++i) print i }'
+  351  cat b.txt | awk -F "," 'BEGIN {for (i=1;i<=$NF;i++) print $i  }'
+  352  cat b.txt | awk -F "," 'BEGIN {for (i=1;i<=$NF;i++) print $i  } '
+  353  cat b.txt | awk -F "," 'BEGIN {for (i=1;i<=10;i++) print $i  } '
+  354  cat b.txt | awk -F "," 'BEGIN {for (i=1 ; i<=10; i++) print $i  } '
+  355  cat b.txt | awk -F "," 'BEGIN {for (i=1 ; i<=10; i++) {print $i}  } '
+  356  cat b.txt | awk -F "," 'BEGIN {for (i=1 ; i<=10; ++i) {print $i}  } '
+  357  cat b.txt | awk -F "," ' {for (i=1 ; i<=10; ++i) {print $i}  } '
+  358  cat b.txt | awk -F "," ' {for (i=1 ; i<=$NF; ++i) {print $i}  } '
+  359  cat b.txt | awk -F "," ' {for (i=1 ; i<=10; ++i) {print $i}  } '
+  360  cat b.txt | awk -F "," ' {for (i=1 ; i<=20; ++i) {print $i}  } '
+  361  cat b.txt | awk -F "," ' {for (i=1 ; i<=20; ++i) {print $NF}  } '
+  362  cat b.txt | awk -F "," ' {for (i=1 ; i<=20; ++i) {print NF}  } '
+  363  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print $i}  } '
+  364  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print ""$i}  } '
+  365  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print ""\$i}  } '
+  366  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print ""\"$i}  } '
+  367  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "\""$i}  } '
+  368  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "\""$i "\""}  } '
+  369  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "\""$i "\"".}  } '
+  370  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "\""$i "\""".}  } '
+  371  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "\""$i "\"""."}  } '
+  372  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField""\""$i "\"""."}  } '
+  373  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\"""."}  } '
+  374  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\""", ""\"STRING"),"""}  } '
+  375  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\""", ""\"STRING"),"\"""}  } '
+  376  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\""")  } '
+  377  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\"")  } '
+  378  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i "\""  } '
+  379  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(""\""$i   } '
+  380  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField($i   } '
+  381  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField"($i   } '
+  382  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {print "bigquery.SchemaField(" $i   } '
+  383  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {printf("%s, "bigquery.SchemaField(" $i)   } '
+  384  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) {printf("%s, "bigquery.SchemaField(", $i)   } '
+  385  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s, "bigquery.SchemaField(", $i)   } '
+  386  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s", "bigquery.SchemaField(", $i)   } '
+  387  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(", $i)   } '
+  388  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(", $i)   } '
+  389  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\", $i)   } '
+  390  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField("\"", $i)   } '
+  391  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField("\""", $i)   } '
+  392  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"", $i)   } '
+  393  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i)   } '
+  394  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"")   } '
+  395  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\".")   } '
+  396  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"." "String")   } '
+  397  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," "String")   } '
+  398  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," ""\"String")   } '
+  399  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," "\"String")   } '
+  400  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," "\"String\"")   } '
+  401  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," "\"String\"),")   } '
+  402  cat b.txt | awk -F "," ' {for (i=1 ; i<=NF; ++i) printf("%s\n", "bigquery.SchemaField(""\"" $i "\"," "\"String\"),")   } '
+  403  hisotry
+  404  history
+  405  history -1000
+  406  history -1000 > myhis
+  407  cd Desktop
+  408  cat list.numbers
+  409  1;2c1;2c:q
+  410  cd
+  411  cd Downloads
+  412  ls
+  413  ls -ltra
+  414  cat results-20200525-142502.csv | more
+  415  cat ls -ltr
+  416  ls -ltra
+  417  cat etlTest_Email Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv | more
+  418  cat etlTest_Email Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv | more
+  419  cat etlTest_Email\ Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv
+  420  cat etlTest_Email\ Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv | more
+  421  cat etlTest_Email\ Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv | more
+  422  ls -ltra
+  423  cat etlTest_Email Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv | more
+  424  ls -ltra
+  425  cat "etlTest_Email Contacts_QT690_4000_EverydaySpy_Email_20200518-20000101.csv" | more
+  426  vi 
+  427  cd
+  428  cd Desktop
+  429  ls -ktr
+  430  ls -ltra
+  431  ls Screen*
+  432  rm Screen*
+  433  ls -ltra
+  434  rm c.jpg
+  435  rm c2.jpg
+  436  rm Session+9.1+summary.docx
+  437  rm b.txt
+  438  vi b.txt
+  439  vi b.txt
+  440  cat b.txt| awk '{print $0}'
+  441  cat b.txt| awk '{ if(NR%2) print $0}'
+  442  cat b.txt| awk '{ if(NR%3) print $0}'
+  443  cat b.txt| awk '{ if(NR%2) print $0}'
+  444  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  445  clear
+  446  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  447  cat b.txt
+  448  vi b.txt
+  449  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  450  vi b.txt
+  451  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  452  vi b.txt
+  453  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  454  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  455  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  456  vi b.txt
+  457  cat b.txt| awk '{ if(NR%2!=0) print $0}'
+  458  cat b.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  459  cat b.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  460  vi c.txt
+  461  cat c.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  462  vi c.txt
+  463  cat c.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  464  vi c.txt
+  465  vi c.txt
+  466  vi c.txt
+  467  cat c.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  468  cat c.txt
+  469  vi n.txt
+  470  cat n.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  471  vi n.txt
+  472  cat n.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  473  vi n.txt
+  474  vi n.txt
+  475  cat n.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  476  ls -ltr
+  477  ls *.txt
+  478  rm *.txt
+  479  ls *.pdf
+  480  ls -ltr
+  481  ls *.pdf
+  482  mv Schaums_Outline_of_Elements_of_Statistic.pdf ./Pdfs_1510
+  483  rm *.pdf
+  484  ls -ltr
+  485  ls *.ppx
+  486  ls *.pptx
+  487  rm *.pptx
+  488  ls
+  489  ls -ltr
+  490  ls *.docx
+  491  rm *.docx
+  492  ls -ltr
+  493  ls *.csv
+  494  rm *.csv
+  495  ls -ltr
+  496  ls *.zip
+  497  rm *.zip
+  498  ls -ltr
+  499  rm *.mp4
+  500  ls -ltr
+  501  ls *.html
+  502  rm *.html
+  503  ls -ltr
+  504  clear
+  505  cd Desktop
+  506  vi b.txt
+  507  cat b.tz
+  508  cat b.txt
+  509  cat b.txt | awk -F" "'{print $1}'
+  510  cat b.txt | awk -F " "'{print $1}'
+  511  cat b.txt | awk "{print $1}'\nq\n\n\n|\nexit
+  512  cat b.txt
+  513  cat b.txt | awk '{print $1}'
+  514  cat b.txt | awk '{print $1","}'
+  515  cd Desktop
+  516  vi b.txt
+  517  cd Desktop
+  518  vi b.txt
+  519  rm b.txt
+  520  vi b.txt
+  521  cat b.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  522  vi b.txt
+  523  cat b.txt| awk '{ if(NR%2!=0) print $0 " STRING,"}'
+  524  vi c.txt
+  525  cat c.txt| awk '{PRINT $0}'
+  526  cat c.txt| awk '{PRINT $0}'
+  527  cat c.txt
+  528  cat c.txt| awk '{Print $0}'
+  529  cat c.txt| awk '{Print 1}'
+  530  cat c.txt | awk '{PRINT $1}'
+  531  cat c.txt 
+  532  cat c.txt | awk '{print $1}'
+  533  cat c.txt | awk '{print $0}'
+  534  cat c.txt | awk '{print 'contact_'$0}'
+  535  cat c.txt | awk '{print 'contact_'||$0}'
+  536  cat c.txt | awk '{print 'contact_'|$0}'
+  537  cat c.txt | awk '{print 'contact_'|$0}'
+  538  cat c.txt | awk '{print 'contact_'$0}'
+  539  cat c.txt | awk '{print 'contact_',$0}'
+  540  cat c.txt | awk '{print "contact_"$0}'
+  541  cat c.txt | awk '{print "Contact_"$0}'
+  542  cd 
+  543  cd Desktop
+  544  ls
+  545  cd google-cloud-sdk
+  546  ls
+  547  ./install.sh
+  548  cd
+  549  exit
+  550  gcloud
+  551  gcloud install
+  552  gcloud components install
+  553  gcloud components install --help
+  554  gcloud components list
+  555  gcloud components install bigtable
+  556  gcloud components install pp-engine-python app-engine-python-extra
+  557  gcloud components install pp-engine-python 
+  558  gcloud components list
+  559  gcloud components install appctl
+  560  gcloud components list
+  561  gcloud components install app-engine-python 
+  562  gcloud components list
+  563  gcloud components install app-engine-python-extras
+  564  gcloud components list
+  565  gcloud components install cbt
+  566  gcloud init
+  567  gcloud app deploy\n
+  568  cd Downloads
+  569  ls
+  570  ls -ltra
+  571  cat AO811_3000_DTI-TBUZTV_Notes_20200622-20000101.csv| more
+  572  vi t.txt
+  573  cat t.txt| awk '{print $1}'
+  574  cat t.txt| awk '{print $2}'
+  575  cat t.txt| awk '{print $0}'
+  576  cat t.txt| awk '{for (i=1;i<=NF;i++) print $i}'
+  577  cat t.txt| awk '{for (i=1;i<=NF;i++){ print $i}}'
+  578  cat t.txt| awk -F ","'{for (i=1;i<=NF;i++){ print $i}}'
+  579  cat t.txt| awk -F "," '{for (i=1;i<=NF;i++){ print $i}}'
+  580  cat t.txt| awk -F "," '{for (i=1;i<=NF;i++){ print $i " STRING ,"}}'
+  581  vi k.txt
+  582  cat k.txt| awk '{ print $1","}'
+  583  rm k.txt
+  584  vi k.txt
+  585  cat k.txt| awk '{ print $1","}'
+  586  cat k.txt| awk '{ print $1}'
+  587  cat k.txt| awk '{ print "cast( " $1 "  as STRING) " $1}'
+  588  vi k.txt
+  589  cat k.txt| awk '{ print "cast( " $1 "  as STRING) " $1}'
+  590  cat k.txt| awk '{ print "cast( " $1 "  as STRING) " $1 ","}'
+  591  cat AO811_3000_DTI-TBUZTV_Notes_20200622-20000101.csv| more
+  592  vi l.txt
+  593  cat l.txt| awk -F "," '{for (i=1;i<=NF;i++){ print $i " STRING ,"}}'
+  594  cat l.txt| awk -F "," '{for (i=1;i<=NF;i++){ print $i " STRING ,"}}'  | wc -l
+  595  mongo
+  596  pip install flask
+  597  vi j.txt
+  598  cat j.txt| awk '{ print $1 " STRING ,"}'
+  599  mongd
+  600  mongd
+  601  mongod
+  602  mongo
+  603  pip install pymongo
+  604  /System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m pip install --upgrade pip
+  605  pip install pymongo
+  606  pip install bs4
+  607  pip3 install bs4
+  608  pip3 install requests
+  609  pip3 install pymongo
+  610  pip install --upgrade pip
+  611  pip3 install pymongo
+  612  mongo
+  613  vi k.txt
+  614  vi h.txt
+  615  cat h.txt | awk 'print $1\n'
+  616  cat h.txt | awk 'print $1'
+  617  cat h.txt | awk {'print $1'}
+  618  cat h.txt | awk {'print $3'}
+  619  cat h.txt | awk {'print $2'}
+  620  cat h.txt | awk {'print $2 "= row['" $2'}\n'\n\n''\n"
+  621  cat h.txt | awk '{print $2 "= row['" }'\n'\n"
+  622  cat h.txt | awk '{print $2 \n}'
+  623  cat h.txt | awk '{print $2 "e"}'
+  624  cat h.txt | awk '{print $2 "= row["}'
+  625  cat h.txt | awk '{print $2 "= row['"}'\n"
+  626  cat h.txt | awk '{print $2 "= row[''"}'
+  627  cat h.txt | awk '{print $2 "= row['''"}'\n"
+  628  cat h.txt | awk '{print $2 "= row['\'"}'\n"
+  629  cat h.txt | awk '{print $2 "= row['"}'\n"
+  630  cat h.txt | awk '{print $2 "= row[" "'"}'\n"
+  631  cat h.txt | awk '{print $2 "= row[" "\"'"}'\n\ncat h.txt | awk '{print $2 "= row[" "'"}'\n"\n"
+  632  cat h.txt | awk '{printf("%s,%s","%s "=" %s)}"\n'
+  633  cat h.txt | awk '{printf("%s,%s","%s "=" %s)}'
+  634  cat h.txt | awk '{printf("%s= %s","%s %s)}'
+  635  cat h.txt | awk '{printf("%s= %s",$1,$1)}'
+  636  cat h.txt | awk '{printf("%s= %s\n",$2,$2)}'
+  637  cat h.txt | awk '{printf("%s=row['%s']\n",$2,$2)}'
+  638  cat h.txt | awk '{printf("%s=row['\%s']\n",$2,$2)}'
+  639  cat h.txt | awk '{printf("%s=row[''\%s']\n",$2,$2)}'\n'\n"
+  640  cat h.txt | awk '{printf("%s=row['''%s']\n",$2,$2)}'
+  641  cat h.txt | awk '{printf("%s=row[''''%s']\n",$2,$2)}'\n'\n\\n"
+  642  cat h.txt | awk '{printf("%s=row['\''%s']\n",$2,$2)}'\n"
+  643  cat h.txt | awk '{printf("%s=row[''\''%s']\n",$2,$2)}'\n"
+  644  cat h.txt | awk '{printf("%s=row['''\''%s']\n",$2,$2)}'\n"
+  645  cat h.txt | awk '{printf("%s=row['\''%s']\n",$2,$2)}'\n"
+  646  cat h.txt | awk '{printf("%s=row[''\'%s']\n",$2,$2)}'\n
+  647  cat h.txt | awk '{printf("%s=row[''\'%s']\n",$2,$2)}'\n
+  648  python
+  649  vi k.txt
+  650  ls -ltr
+  651  rm k.txt
+  652  vi k.txt
+  653  cat k.txt | grep 'Insert'
+  654  cat k.txt | grep 'insert'
+  655  cat k.txt | grep 'insert' | awk -F ":" '{ print $2}'
+  656   𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚐𝚞𝚒𝚎𝚝𝚝𝚊
+  657  pip install 𝚐𝚞𝚒𝚎𝚝𝚝𝚊
+  658  mongod
+  659  mongod
+  660  brew tap mongodb/brew
+  661  brew services start mongodb-community@4.2
+  662  mongo
+  663  mongod
+  664  brew switch openssl 1.0.2q
+  665  mongod
+  666  mongo
+  667  pwd
+  668  mkdir mongodb
+  669  mongod /Users/ashokraj/mongodb
+  670  mongod -dbpath /Users/ashokraj/mongodb
+  671  exit
+  672  eval 'set +o history' 2>/dev/null || setopt HIST_IGNORE_SPACE 2>/dev/null\n touch ~/.gitcookies\n chmod 0600 ~/.gitcookies\n\n git config --global http.cookiefile ~/.gitcookies\n\n tr , \\t <<\__END__ >>~/.gitcookies\nsource.developers.google.com,FALSE,/,TRUE,2147483647,o,git-integration.netesenz.com=1//0gmz1gxuGjVyJCgYIARAAGBASNwF-L9IrJHtGEaSaDSkNQDnynBdkx-X5tmq2l3bZPUTVXzetnPCWvEJzD80icjFNQlYGYxbwlQs\n__END__\neval 'set -o history' 2>/dev/null || unsetopt HIST_IGNORE_SPACE 2>/dev/null\n
+  673  git remote add google https://source.developers.google.com/p/investpub-datalake/r/InvestPubSourceRepo
+  674  mkdir em
+  675  cd em
+  676  git push --all google
+  677  ls
+  678  pwd
+  679  ls
+  680  cd ..
+  681  cd .git
+  682  ls
+  683  cd branches
+  684  ls
+  685  cd ..
+  686  cd 
+  687  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  688  vi k.sql
+  689  vi k.txt
+  690  rm k.txt
+  691  vi k.txt
+  692  cat k.txt | awk -F"," '{ print $1}'
+  693  cat k.txt | awk -F"," '{ print $2}'
+  694  history | grep 'awk'
+  695  history -110 | grep 'awk'
+  696  history -110 | grep 'awk'
+  697  SELECT fiscalquarter, fiscal, forecastcategory, lastmodifiedbyid, probability, iswon, hasoverduetask, effortid__c, discovery_completed__c, id, createdbyid, lastmodifieddate, name, campaignid__c, `_sdc_table_version`, fiscalyear, lastvieweddate, hasopportunitylineitem, accountid, ownerid, isclosed, `_sdc_received_at`, closedate, `_sdc_sequence`, pricebook2id, hasopenactivity, amount, budget_confirmed__c, lastreferenceddate, systemmodstamp, offerid__c, `_sdc_batched_at`, stagename, `_sdc_extracted_at`, forecastcategoryname, createddate, isdeleted, roi_analysis_completed__c, campaignid, sub_brand_id__c, brand_id__c, order_channel__c\nFROM `investpub-datalake`.investpubsalesforceprod.Opportunity;
+  698   awk -F "," '{for (i=1;i<=NF;i++){ print $i " STRING ,"}}'
+  699  cat k.txt|  awk -F "," '{for (i=1;i<=NF;i++){ print $i " STRING ,"}}'
+  700  cat k.txt|  awk -F "," '{for (i=1;i<=NF;i++){ print $i }}'
+  701  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  702  exit
+  703  clear
+  704  l
+  705  lw
+  706  lw
+  707  ls
+  708  brew install zsh
+  709  brew install zsh
+  710  sudo port install zsh zsh-completions
+  711  chsh -s /usr/local/bin/zsh
+  712  chsh -s /usr/local/bin/zsh
+  713   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  714   sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  715  shell
+  716  cd
+  717  cd Desktop
+  718  mkdir new-folder
+  719  cd new-folder
+  720  ls
+  721  vi k.txt
+  722  vi oldsdfc_view.sql
+  723  exit
+  724  docker pull jboss/business-central-workbench
+  725  docker
+  726  docker images
+  727  docker images start
+  728  docker images start 249b5694146e
+  729  docker images start jboss/business-central-workbench
+  730  docker images start 
+  731  docker start 249b5694146e
+  732  docker start
+  733  docker start jboss/business-central-workbench
+  734  docker container start 249b5694146e
+  735  docker run 249b5694146e:latest
+  736  docker run -d 249b5694146e
+  737  docker
+  738  docker ps
+  739  docker stop
+  740  docker images
+  741  docker stop 249b5694146e
+  742  docker ps
+  743  docker stop 4af7c8b634db
+  744  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench jboss/business-central-workbench:latest\n
+  745  docker ps
+  746  docker stop e19208bbf224
+  747  docker ps
+  748  e19208bbf224
+  749  docker ps
+  750  docker run -t -i -p 8080:8080 -p 8001:8001 jboss/business-central-workbench:latest /bin/bash
+  751  docker ps
+  752  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench jboss/business-central-workbench:latest\n
+  753  docker ps
+  754  docker stop e19208bbf224
+  755  docker ps
+  756  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench jboss/business-central-workbench:latest\n
+  757  docker images
+  758  docker ps
+  759  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench jboss/business-central-workbench:latest\n
+  760  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench1 jboss/business-central-workbench:latest\n
+  761  docker ps
+  762  docker stop 3ea1b4a0049c
+  763  docker ps
+  764  history
+  765  docker run -t -i -p 8080:8080 -p 8001:8001 jboss/business-central-workbench:latest /bin/bash
+  766  docker ps
+  767  hisgotry
+  768  history
+  769  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench1 jboss/business-central-workbench:latest
+  770  docker rm  jboss/business-central-workbench:latest
+  771  docker rm 8861038aec2a
+  772  docker rm 3ea1b4a0049c
+  773  docker rm b39ccef462c8
+  774  docker rm e19208bbf224
+  775  docker rm 4af7c8b634db
+  776  docker run -p 8080:8080 -p 8001:8001 -d --name business-central-workbench1 jboss/business-central-workbench:latest
+  777  docker ps
+  778  docker stop 53f0ceaedb96
+  779  docker pull jboss/kie-server-showcase
+  780  docker ps
+  781  docker images
+  782  docker run -p 8180:8080 -d --name kie-server --link drools-wb:kie-wb jboss/kie-server-showcase:latest
+  783  docker run -p 8180:8080 -d --name kie-server  jboss/kie-server-showcase:latest
+  784  docker images
+  785  docker ps
+  786  docker stop 80391742bc5f
+  787  docker pull jboss/business-central-workbench-showcase
+  788  docker images
+  789  docker run -p 8080:8080 -p 8001:8001 -d --name jbpm-workbench jboss/business-central-workbench-showcase:latest\n
+  790  docker ps
+  791  docker stop e00454cb7ba8
+  792  docker pull jenkins/jenkins
+  793  docker volume create jenkins-data
+  794  docker images
+  795  docker run --name jenkins-production \\n           --detach \\n           -p 50000:50000 \\n           -p 8080:8080 \\n           -v jenkins-data:/var/jenkins_home \\n           jenkins/jenkins:2.107.3
+  796  docker images
+  797  docker run --name jenkins-production \\n           --detach \\n           -p 50000:50000 \\n           -p 8080:8080 \\n           -v jenkins-data:/var/jenkins_home \\n           jenkins/jenkins:2.107.3
+  798  docker ps
+  799  docker exec jenkins-production bash -c 'cat $JENKINS_HOME/secrets/initialAdminPassword'
+  800  docker ps
+  801  docker stop ddba28f4f774
+  802  docker stop jenkins-production
+  803  docker run --name jenkins-production \\n           --detach \\n           -p 50000:50000 \\n           -p 8080:8080 \\n           -v jenkins-data:/var/jenkins_home \\n           jenkins/jenkins:2.121.3
+  804  docker rm jenkins-production 
+  805  docker run --name jenkins-production \\n           --detach \\n           -p 50000:50000 \\n           -p 8080:8080 \\n           -v jenkins-data:/var/jenkins_home \\n           jenkins/jenkins:2.121.3
+  806  docker rm jenkins-production 
+  807  docker ps
+  808  docker stop jenkins-production
+  809  docker ps
+  810  docker images
+  811  docker run --name jenkins-production1 \\n           --detach \\n           -p 50000:50000 \\n           -p 8080:8080 \\n           -v jenkins-data:/var/jenkins_home \\n           jenkins/jenkins:latest
+  812  docker ps
+  813  exit
+  814  ssh ashok@192.168.122.1
+  815  ifconfig
+  816  ping 192.168.122.1
+  817  ping 10.0.2.15
+  818  ssh ashok@192.168.122.1
+  819  ifconfig
+  820  ifconfig -a
+  821  ssh ashok@192.168.1
+  822  ssh ashok@192.168.1.4
+  823  ping 192.168.1.4
+  824  ssh ashok@192.168.1.4
+  825  ssh ashok@192.168.122.1
+  826  ping 192.168.1.4
+  827  ping 192.168.122.14
+  828  ssh ashok@10.0.2.15
+  829  ssh ashok@192.168.122.1
+  830  ping 192.168.122.1
+  831  ssh ashok@192.168.122.1
+  832  ping 192.168.122.1
+  833  ssh ashok@192.168.122.1
+  834  ping 192.168.122.1
+  835  cd /Users/ashokraj/VirtualBox VMs
+  836  cd /Users/ashokraj
+  837  ls
+  838  ls -ltr
+  839  cd VirtualBox\ VMs
+  840  ls
+  841  ssh ashok@192.168.56.101
+  842  ping 192.168.56.101
+  843  ssh ashok@192.168.56.101
+  844  cd
+  845  exit
+  846  cd ./Desktop
+  847  ls
+  848  ls -ltr
+  849  ls -ltr *.pdf
+  850  rm *.pdf
+  851  ls -ltr
+  852  ls -ltr *.jp*
+  853  rm *.jp*
+  854  ls -ltr *.jp*
+  855  ls -ltr
+  856  ls -ltr *.mp4"\n"
+  857  ls -ltr *.mp4*\n"\nls -ltr
+  858  ls -ltr *.m*
+  859  rm *.mp4
+  860  exit
+  861  cd ./Desktop
+  862  ls
+  863  ls *.dmg
+  864  rm *.dmg
+  865  ls
+  866  ls *.xls
+  867  ls *.xlsx
+  868  rm *.xlsx
+  869  ls
+  870  ls -ltr
+  871  rm *.csv
+  872  ls -ltr
+  873  ls -ltr *.txt
+  874  rm *.txt
+  875  ls -ltr
+  876  ls -ltr *.py
+  877  rm *.py
+  878  ls -ltr
+  879  ls -ltr *.zip
+  880  rm *.zip
+  881  ls -ltr *.zip
+  882  ls -ltr
+  883  rm arabs.mp4.crdownload
+  884  rm CentOS-8.2.2004-x86_64-boot.iso
+  885  ls -ltr
+  886  rm *.docx
+  887  ls -ltr
+  888  rm *.sh
+  889  ls
+  890  ls -ltr
+  891  rm monthly-portfolio-disclosure-august-2020
+  892  rd monthly-portfolio-disclosure-august-2020
+  893  rd -f monthly-portfolio-disclosure-august-2020
+  894  rn select*
+  895  rm select*
+  896  ls -ltr
+  897  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  898  cd
+  899  exit
+  900  vi k.txt
+  901  cat k.txt
+  902  cat k.txt | awk -F ',' "{print $2}"
+  903  cat k.txt | awk -F ',' "{print $4}"
+  904  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  905  bash
+  906  pip install "graphene>=2.0"
+  907  /Users/ashokraj/Documents/anaconda/anaconda3/bin/jupyter_mac.command ; exit;
+  908  cd
+  909  exit
+  910  cd
+  911  bsh
+  912  sh
+  913  bash
+  914  bash
+  915  echo "$SHELL" 
+  916  git
+  917  git ls
+  918  git show
+  919  cd Desktop
+  920  cd git_course
+  921  ls
+  922  mv udacity-terminal-config ~/ashok
+  923  ls
+  924  cd ..
+  925  pwd
+  926  ls
+  927  cp ~/Desktop/git_course/ud123-udacity-terminal-config.zip .
+  928  unzip ud123-udacity-terminal-config.zip
+  929  ls
+  930  pwd
+  931  mv udacity-terminal-config .udacity-terminal-config
+  932  ci .bash_profile
+  933  vi .bash_profile
+  934  .  .bash_profile
+  935  ls *.
+  936  ls
+  937  ls *
+  938  pwd
+  939  ls
+  940  rm *.ipynd
+  941  rm *.ipynb
+  942  ls
+  943  rm *.txt
+  944  ls
+  945  ls -ltra
+  946  . .bash_profile
+  947  cat .bash_profile
+  948  ls -ltra
+  949  exit
+  950  ls -ltra
+  951  cat .zshrc
+  952  ls -ltra
+  953  cat /etc/shells
+  954  chsh -s /bin/bash
+  955  echo $SHELL
+  956  sudo chsh -s /bin/bash
+  957  echo $SHELL
+  958  chsh -s /bin/bash
+  959  exit
+  960  pwd
+  961  django-admin
+  962  django-admin startproject app
+  963  cd app
+  964  ls
+  965  python manage.py migrate
+  966  python manage.py runserver
+  967  python manage.py startapp tracks
+  968  python manage.py makemigrations
+  969  python manage.py migrate
+  970  python manage.py shell
+  971  pwd
+  972  ls
+  973  cd app
+  974  python manage.py shell
+  975  python ./migrations/manage.py shell
+  976  python migrations/manage.py shell
+  977  pwd
+  978  python /Users/ashokraj/Study/python-graphene/app/tracks/manage.py shell
+  979  pwd
+  980  cd ..
+  981  ls
+  982  python migrations/manage.py shell
+  983  python manage.py shell
+  984  pwd
+  985  bash
+  986  /Library/PostgreSQL/10/uninstall-postgresql.app/Contents/MacOS/uninstall-postgresql ; exit;
+  987  git
+  988  git status
+  989  pwd
+  990  git commit .
+  991  git add .
+  992  git commit .
+  993  git push .
+  994  cd Desktop
+  995  ls -ltr
+  996  rm FACT*
+  997  ls
+  998  ls -ltr
+  999  exir
+ 1000  exit
+ 1001  ls
+ 1002  cd Desktop
+ 1003  ls -ltr *.jpg
+ 1004  ls -ltr *.jpeg
+ 1005  rm *.jpeg
+ 1006  ls -ltr
+ 1007  rm *.png
+ 1008  ls -ltr
+ 1009  rm Clubdeck-1.3.4.dmg
+ 1010  rm FACT_UPC_PRODUCT_AVAILABILTY_202106172054.csv
+ 1011  ls H*
+ 1012  ls He*
+ 1013  rm he*
+ 1014  rm He*
+ 1015  ls -ltr
+ 1016  ls *.mp4
+ 1017  rm *.mp4
+ 1018  ls -ltr
+ 1019  rm Coin*
+ 1020  ls -ltr
+ 1021  rm Plan*
+ 1022  ls -ltr
+ 1023  rm StrongVPN.dmg
+ 1024  ls -ltr
+ 1025  rm golan*
+ 1026  ls -ltr
+ 1027  rm modi*
+ 1028  ls -ltr
+ 1029  rm postgresql-13.2-2-osx.dmg
+ 1030  ls -ltr
+ 1031  node -v
+ 1032  cd 
+ 1033  cd Documents
+ 1034  mkdir d3-map
+ 1035  cd d3-map
+ 1036  pwd
+ 1037  vi package.json
+ 1038  npm install
+ 1039  cat package.json
+ 1040  vi package.json
+ 1041  npm install
+ 1042  ls
+ 1043  vi package.json
+ 1044  npm install
+ 1045  npm fund
+ 1046  ls
+ 1047  cd node_modules
+ 1048  ls
+ 1049  cd ..
+ 1050  git init
+ 1051  vi .gitignore
+ 1052  pwd
+ 1053  brew install gdal
+ 1054  brew install --build-from-source python@3.9
+ 1055  brew link python@3.9
+ 1056  brew install gdal
+ 1057  brew install --build-from-source gcc
+ 1058  brew install gdal
+ 1059  brew unlink xpd
+ 1060  brew install gdal
+ 1061  brew unlink xpdf
+ 1062  brew install gdal
+ 1063  bash
+ 1064  pwd
+ 1065  dir
+ 1066  ls
+ 1067  flask run
+ 1068  Python3 -m pip install Flask
+ 1069  flask run
+ 1070  pip install — upgrade snowflake-connector-python
+ 1071  pip install snowflake-connector-python
+ 1072  /System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m pip install --upgrade pip
+ 1073  pip install snowflake-connector-python
+ 1074  pip install -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.4.6/tested_requirements/requirements_36.reqs
+ 1075  pip install snowflake-connector-python==3
+ 1076  pip install snowflake-connector-python==2.1.3
+ 1077  virtualenv
+ 1078  virtual
+ 1079  virtualenv_prompt_info
+ 1080  venv
+ 1081  python -m pip install --upgrade pip
+ 1082  pip3  install snowflake-connector-python==2.1.3
+ 1083  pip3 
+ 1084  venv
+ 1085  VENDOR=app.py
+ 1086  bash
+ 1087  ls
+ 1088  pwd
+ 1089  ls -ltr
+ 1090  cat shp.csv| more
+ 1091  rm shp.csv
+ 1092  git --version
+ 1093  pwd
+ 1094  mkdir WebProjects
+ 1095  cd WebProjects
+ 1096  ls
+ 1097  git clone https://github.com/ashokraj1978/WebProjects.git web_work_repo
+ 1098  ls
+ 1099  cd web_work_repo
+ 1100  ls
+ 1101  ls -ltr
+ 1102  ls -ltra
+ 1103  pwd
+ 1104  cd 
+ 1105  cd Documents
+ 1106  cd D3
+ 1107  ls
+ 1108  cd 2
+ 1109  ls
+ 1110  cd ..
+ 1111  pwd
+ 1112  git add
+ 1113  git add .
+ 1114  git add D3
+ 1115  cd D3
+ 1116  ls
+ 1117  cd ..
+ 1118  git rm --cached Documents/D3
+ 1119  git add D3
+ 1120  git push
+ 1121  git commit
+ 1122  git commit D3
+ 1123  git status
+ 1124  pwd
+ 1125  ls -ltra
+ 1126  rm X-Plane\ 10\ Demo\ Installer.app
+ 1127  rd -f X-Plane\ 10\ Demo\ Installer.app
+ 1128  rm -f X-Plane\ 10\ Demo\ Installer.app
+ 1129  git commit .
+ 1130  git commit D3
+ 1131  git push origin master
+ 1132  ls -ltr
+ 1133  ls -ltr .g*
+ 1134  ls -ltr .git*
+ 1135  cd D3
+ 1136  pwd
+ 1137  ls -ltra
+ 1138  cd .git
+ 1139  ls
+ 1140  cd config
+ 1141  ls
+ 1142  cat config
+ 1143  vi config
+ 1144  cd ..
+ 1145  pwd
+ 1146  cd ..
+ 1147  git push origin master
+ 1148  git remote set-url origin https://YOUR_GITHUB_USER@github.com/aceofwings/RotairERP.git\n
+ 1149  git remote set-url origin  https://github.com/ashokraj1978/WebProjects.git
+ 1150  git push origin master
+ 1151  git commit D3
+ 1152  pwd
+ 1153  cd D3
+ 1154  git commit .
+ 1155  git push origin master
+ 1156  git push origin .
+ 1157  pwd
+ 1158  git add *
+ 1159  git commit
+ 1160  git push origin master
+ 1161  git push origin master1
+ 1162  git push origin master2
+ 1163  git push  .
+ 1164  pwd
+ 1165  git init
+ 1166  git add -A
+ 1167  git commit -m 'Added my project'
+ 1168  git remote set-url origin  https://github.com/ashokraj1978/WebProjects.git
+ 1169  git push origin master
+ 1170  git remote add origin  https://github.com/ashokraj1978/WebProjects.git
+ 1171  git commit
+ 1172  git push
+ 1173  git push -u -f origin master
+ 1174  git push -u -f origin master1
+ 1175  git push 'remote_name' 'branch_name'
+ 1176  git status
+ 1177  git init
+ 1178  git commit
+ 1179  git status
+ 1180  git pull origin master
+ 1181  ls -ltr
+ 1182  cd ..
+ 1183  git init
+ 1184  git add D3
+ 1185  git rm --cached D3
+ 1186  git -f rm --cached D3
+ 1187  git rm -f --cached D3
+ 1188  git add D3
+ 1189  git commit D3
+ 1190  git add D3/
+ 1191  git commit 
+ 1192  git init
+ 1193  git add D3/
+ 1194  git commit
+ 1195  git commit D3
+ 1196  git init
+ 1197  git add D3
+ 1198  git commit -m "Your message about the commit"
+ 1199  git remote add origin 
+ 1200  history
+ 1201  git remote add origin  https://github.com/ashokraj1978/WebProjects.git
+ 1202  git commit -m "Your message about the commit"
+ 1203  pwd
+ 1204  cd D3
+ 1205  git init
+ 1206  git add .
+ 1207  git commit -m “First commit”
+ 1208  ls -ltr
+ 1209  ls -ltra
+ 1210  cd ,git
+ 1211  ls
+ 1212  rm -rf .git
+ 1213  git add .
+ 1214  git init
+ 1215  git status
+ 1216  ls
+ 1217  pwd
+ 1218  git commit
+ 1219  touch j.txt
+ 1220  git commit
+ 1221  git add .
+ 1222  git commit
+ 1223  npx create-react-app my-app
+ 1224  cd my-app
+ 1225  npm start
+ 1226  cd
+ 1227  cd Documents
+ 1228  ls
+ 1229  cd react_learn
+ 1230  ls
+ 1231  unzip 01-starting-setup.zip
+ 1232  ls -ltr
+ 1233  pwd
+ 1234  npm start
+ 1235  cd ..
+ 1236  npm start
+ 1237  ls -ltr
+ 1238  pwd
+ 1239  npm install
+ 1240  npm start 
+ 1241  pip install localstack\n
+ 1242  ls -ltr
+ 1243  pwd
+ 1244  cd ..
+ 1245  ls -ltr
+ 1246  ls -ltra
+ 1247  rm -rf .git
+ 1248  ls -ltra
+ 1249  cd D3
+ 1250  ls
+ 1251  ls -ltra
+ 1252  cd ,git
+ 1253  ls
+ 1254  cd .git
+ 1255  ls
+ 1256  cd ..
+ 1257  ls -ltra
+ 1258  cd css
+ 1259  pwd
+ 1260  mkdir lear
+ 1261  rm lear
+ 1262  rm -rf lear
+ 1263  mkdir learn_2021
+ 1264  cd learn_2021
+ 1265  mkdir css
+ 1266  mkdir blockchain
+ 1267  mkdir react
+ 1268  mkdir D3
+ 1269  brew install protobuf
+ 1270  pwd
+ 1271  ls -ltr
+ 1272  cd protbuf
+ 1273  ls
+ 1274  rm Screenshot_20210808-112638.jpeg
+ 1275  rm code.zip
+ 1276  brew install protobuf
+ 1277  protoc
+ 1278  pwd
+ 1279  ls -ltr
+ 1280  cat date.proto
+ 1281  proto
+ 1282  protoc
+ 1283  protoc -I=proto --python-out=python date.proto
+ 1284  protoc -I=proto --python-out=python ./
+ 1285  ls -ltr
+ 1286  mmdir proto
+ 1287  mkdir proto
+ 1288  cp date.proto ./proto
+ 1289  protoc -I=proto --python-out=python ./proto
+ 1290  protoc -I=proto --python-out= ./proto
+ 1291  protoc -I=proto --python-out=. ./proto
+ 1292  protoc -I=proto/ --python-out=. ./proto
+ 1293  protoc -I=proto/ --pythonout=. ./proto
+ 1294  protoc -I=proto/ --python_out=. ./proto
+ 1295  protoc -I=proto/ --python_out=. ./proto/
+ 1296  protoc -I=./proto/ --python_out=. ./proto
+ 1297  protoc -I=./proto/ --python_out=.
+ 1298  protoc -I=./proto/ --python_out=. ./proto/date.proto
+ 1299  protoc -I=./proto/ --python_out= ./proto/date.proto
+ 1300  protoc -I=./proto/ --python_out=. ./proto/date.proto
+ 1301  protoc -I=./proto/ --python_out=. ./proto/date.proto date.proto
+ 1302  protoc -I=./proto/ --python_out=. ./proto/ date.proto
+ 1303  protoc -I=./proto/ --python_out=.  date.proto
+ 1304  protoc -I=. --python_out=.  date.proto
+ 1305  protoc -I=. --python_out=./proto  date.proto
+ 1306  protoc -I=proto --python_out=./proto  date.proto
+ 1307  mkdir python
+ 1308  protoc -I=proto --python_out=python  date.proto
+ 1309  protoc -I=proto --python_out=python  ./proto/date.proto
+ 1310  protoc -I=proto --python_out=python  ./proto/*.proto
+ 1311  ls -ltr
+ 1312  protoc -I=proto --python_out=python  proto/*.proto
+ 1313  pwd
+ 1314  cd proto
+ 1315  ls -ltr
+ 1316  vi date.proto
+ 1317  cd ..
+ 1318  protoc -I=proto --python_out=python  proto/*.proto
+ 1319  ls -ltr
+ 1320  cd python
+ 1321  ls
+ 1322  ls -ltr
+ 1323  cat date_pb2.py
+ 1324  pwd
+ 1325  go cards/main.go
+ 1326  cd cards
+ 1327  ls
+ 1328  ./main.go
+ 1329  go main.go
+ 1330  go run main.go
+ 1331  func=A
+ 1332  go run main.go
+ 1333  go run main.go deck.go
+ 1334  go run main.go
+ 1335  jobs
+ 1336  go run main.go
+ 1337  jobs
+ 1338  go run main.go
+ 1339  pwd
+ 1340  cd ..
+ 1341  cd data_structs
+ 1342  ls
+ 1343  go run linked_list.go
+ 1344  ls -ltr
+ 1345  go run stack.go
+ 1346  go run que_channel.go
+ 1347  ls -ltr
+ 1348  go run tree.go
+ 1349  ls -ltr
+ 1350  go run tree.go
+ 1351  ls -ltr
+ 1352  gcc tree.c 
+ 1353  ls
+ 1354  ./a.out
+ 1355  gcc tree.c 
+ 1356  ./a.out
+ 1357  gcc tree.c 
+ 1358  ./a.out
+ 1359  gcc tree.c 
+ 1360  ./a.out
+ 1361  gcc tree.c 
+ 1362  ./a.out
+ 1363  gcc tree.c 
+ 1364  ./a.out
+ 1365  gcc tree.c 
+ 1366  ./a.out
+ 1367  pip install localstack\n
+ 1368  localstack start\n
+ 1369  docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack\n
+ 1370  pwd
+ 1371  ls
+ 1372  cd 
+ 1373  cd
+ 1374  cd Desktop
+ 1375  cd concurrent-programming-go
+ 1376  ls
+ 1377  cd 02
+ 1378  ls
+ 1379  cd demos
+ 1380  ls
+ 1381  ls -ltr
+ 1382  pwd
+ 1383  cd ..
+ 1384  cd demos
+ 1385  cd 01_basic_course_demo
+ 1386  ls
+ 1387  cd before
+ 1388  ls
+ 1389  ls -ltr
+ 1390  go run main.go
+ 1391  pwd
+ 1392  cd ..
+ 1393  cd after
+ 1394  ls
+ 1395  ls -ltr
+ 1396  go run main.go
+ 1397  pwd
+ 1398  go run main.go
+ 1399  clear
+ 1400  go run main.go
+ 1401  ifconfig
+ 1402  traceroute google.com
+ 1403  ifconfig
+ 1404  traceroute google.com
+ 1405  pwd
+ 1406  cd 
+ 1407  cd Desktop
+ 1408  ls -ltr
+ 1409  ls *jpeg
+ 1410  rm *jpeg
+ 1411  ls -ltr
+ 1412  ls *.pdf
+ 1413  ls *.zip
+ 1414  rm *.zip
+ 1415  ls *.xls
+ 1416  rm OpTransactionHistory17-08-2021.xls
+ 1417  ls -ltr 
+ 1418  ls *.word
+ 1419  ls word*
+ 1420  rm word\ count
+ 1421  rm -rf word\ count
+ 1422  ls -ltr 
+ 1423  ls *.mp4
+ 1424  rm *.mp4
+ 1425  ls -ltr
+ 1426  ls *,dmg
+ 1427  ls -ltr *.dmg
+ 1428  rm *.dmg
+ 1429  ls -ltr
+ 1430  rm bal.htm
+ 1431  ls -ltr
+ 1432  ls *,docx
+ 1433  ks *,docx
+ 1434  ls *,do
+ 1435  ls *.xlsx
+ 1436  rm 2021-06-10-06-40-36-Availability_Export.xlsx
+ 1437  ls -ltr
+ 1438  ls -ltr *.docx
+ 1439  rm *.docx
+ 1440  pwd
+ 1441  cd ..
+ 1442  cd Documents
+ 1443  ls -ltr
+ 1444  cd learn_2021
+ 1445  ls -ltr
+ 1446  cd golang
+ 1447  ls -ltr
+ 1448  cd data_downloaded
+ 1449  ls
+ 1450  tail -20 userbase.csv
+ 1451  head -10 userbase.csv
+ 1452  pwd
+ 1453  ls -ltr
+ 1454  go run a.go
+ 1455  go run a.go email_to_find
+ 1456  go run a.go email_to_find r3o@gmail.com
+ 1457  go run a.go r3o@gmail.com
+ 1458  go run a.go email_to_find r3o@gmail.com
+ 1459  go run a.go email_to_find krSRm6RkU@gmail.com
+ 1460  pwd
+ 1461  ls -ltr
+ 1462  tail -10 userbase.csv
+ 1463  go run a.go email_to_find 7NYSY@yahoo.com
+ 1464  go run a.go email_to_find ere
+ 1465  clear
+ 1466  go run a.go email_to_find ere
+ 1467  go run a.go email_to_find 7NYSY@yahoo.com
+ 1468  vi userbase.csv
+ 1469  cat userbase.csv > all.csv
+ 1470  cat userbase.csv >> all.csv
+ 1471  ls -ltr
+ 1472  cat userbase.csv >> all.csv
+ 1473  ls -ltr
+ 1474  go run a.go email_to_find 7NYSY@yahoo.com
+ 1475  cat userbase.csv >> all.csv
+ 1476  ls -ltrh
+ 1477  go run a.go email_to_find hh
+ 1478  cat userbase.csv >> all.csv
+ 1479  ls -ltrh
+ 1480  go run a.go email_to_find hh
+ 1481  cat userbase.csv >> all.csv
+ 1482  ls -ltrh
+ 1483  cat userbase.csv >> all.csv
+ 1484  cp all.csv all_old.csv
+ 1485  ls -ltr
+ 1486  cat all_old.csv >> all.csv
+ 1487  ls -ltr
+ 1488  go run a.go email_to_find hh
+ 1489  cat all_old.csv >> all.csv
+ 1490  ls -ltr
+ 1491  ls -ltrh
+ 1492  go run a.go email_to_find hh
+ 1493  wc -l all.csv
+ 1494  cal
+ 1495  calc
+ 1496  clear
+ 1497  go run a.go email_to_find hh
+ 1498  go run b.go email_to_find hh
+ 1499  go run a.go email_to_find hh
+ 1500  go run b.go email_to_find hh
+ 1501  mkdir bckuo
+ 1502  rm -rf bckuo
+ 1503  mkdir bkup
+ 1504  cp all.csv ./bkup
+ 1505  cd bkup
+ 1506  ls -ltr
+ 1507  split -l 13125000 all.csv 
+ 1508  ls -ltr
+ 1509  pwd
+ 1510  ls -lt
+ 1511  ls
+ 1512  go run c.go
+ 1513  go run z.go
+ 1514  ls -ltr
+ 1515  pwd
+ 1516  go run c.go
+ 1517  go run z.go
+ 1518  go run c.go
+ 1519  tail -10 xaa
+ 1520  tail -10 xaa > xaa1
+ 1521  tail -10 xaa > xaa2
+ 1522  tail -10 xaa > xaa3
+ 1523  tail -10 xaa > xaa4
+ 1524  go run c.go
+ 1525  go run x.go
+ 1526  go run c.go
+ 1527  go run x.go
+ 1528  go run y.go
+ 1529  go run y.go > y.gif
+ 1530  pwd
+ 1531  go run y.go 
+ 1532  go run nor.go
+ 1533  go run y.go 
+ 1534  ls -ltr
+ 1535  ./x a bcg
+ 1536  ./x  -s / a bc def
+ 1537  ./echo4 -help
+ 1538  ./x -help
+ 1539  go build x.go
+ 1540  ./x -help
+ 1541  ./x  -s / a bc def -4 33
+ 1542  ./x  -s / a bc def -4 3
+ 1543  go build x.go
+ 1544  ./x  -s / a bc def -4 3
+ 1545  go build x.go
+ 1546  ./x  -s / a bc def -4 3
+ 1547  ./x  -s / a bc def -cnt 3
+ 1548  go build x.go
+ 1549  ./x  -s / a bc def -cnt 3
+ 1550  ./x  -s / a bc def -cnt=4
+ 1551  go build x.go
+ 1552  ./x  -h
+ 1553  ls -ltr
+ 1554  go run x.go
+ 1555  pwd
+ 1556  go run x.go
+ 1557  go mod init pack
+ 1558  ls -ltr
+ 1559  go run x.go
+ 1560  ls -ltr
+ 1561  cat go.mod
+ 1562  mkdir pack
+ 1563  cp pack.go ./pack
+ 1564  go run x.go
+ 1565  cd pack
+ 1566  go build pack.go
+ 1567  ls
+ 1568  cd ..
+ 1569  go build x.go
+ 1570  ls -ltr
+ 1571  rm pack.go
+ 1572  cat go.mod
+ 1573  rm go.mod
+ 1574  go run x.go
+ 1575  rm pack
+ 1576  ls -ltr
+ 1577  cd pack
+ 1578  ls
+ 1579  ls -ltr
+ 1580  cat pack.go
+ 1581  pwd
+ 1582  cd ..
+ 1583  ls -ltr
+ 1584  go build x.go
+ 1585  echo $GOPATH
+ 1586  echo GOPATH
+ 1587  echo $GOROOT
+ 1588  pwd
+ 1589  go mod init ./pack/pack
+ 1590  go mod init ./pack
+ 1591  go mod init pack/pack
+ 1592  go mod init ./pack
+ 1593  go build x.go
+ 1594  cd pack
+ 1595  ls -ltr
+ 1596  go mod init 
+ 1597  ls -ltr
+ 1598  go mod init pack
+ 1599  ls -ltr
+ 1600  cd ..
+ 1601  go build x.go
+ 1602  pwd
+ 1603  go build x.go
+ 1604  go env 
+ 1605  cd pack
+ 1606  ls -ltr
+ 1607  cat go.mod
+ 1608  pwd
+ 1609  cd ..
+ 1610  go install app
+ 1611  pwd
+ 1612  cd pack/
+ 1613  go instal pack.go
+ 1614  go instal pack
+ 1615  go install pack
+ 1616  ls
+ 1617  cd ..
+ 1618  go build x.go
+ 1619  mkdir src
+ 1620  cp x.go ./src
+ 1621  cd src
+ 1622  go build x.go
+ 1623  go env
+ 1624  pwd
+ 1625  cd OPATH="\nçç\nexit\n\n
+ 1626  cd /Users/ashokraj/go
+ 1627  ls
+ 1628  ls -ltr
+ 1629  cd pkg
+ 1630  ls
+ 1631  cd sumdb
+ 1632  l
+ 1633  ls
+ 1634  cd ..
+ 1635  pwd
+ 1636  cd..
+ 1637  pwd
+ 1638  cd 
+ 1639  cd Desktop
+ 1640  cd concurrent-programming-go
+ 1641  ls
+ 1642  cd 02
+ 1643  cd demos
+ 1644  pwd
+ 1645  cd 01_basic_course_demo/before
+ 1646  ls
+ 1647  pw
+ 1648  pwd
+ 1649  ls
+ 1650  cd ..
+ 1651  ls
+ 1652  cd after
+ 1653  ls
+ 1654  cd src
+ 1655  ls
+ 1656  go buld x.go
+ 1657  go build x.go
+ 1658  clear
+ 1659  git --v
+ 1660  git --version
+ 1661  pwd
+ 1662  cd
+ 1663  pwd
+ 1664  cd Documents
+ 1665  ls
+ 1666  cd learn_2021
+ 1667  ls -ltr
+ 1668  mkdir myrepo
+ 1669  cd myrepo
+ 1670  ls
+ 1671  git@github.com:ashokraj1978/Learn.git
+ 1672  git clone git@github.com:ashokraj1978/Learn.git
+ 1673  ls -ltr
+ 1674  pwd
+ 1675  ls -ltra
+ 1676  git clone git@github.com:ashokraj1978/Learn.git
+ 1677  ssh-keygen -t rsa
+ 1678  ls -ltra
+ 1679  cat gitkey.pub
+ 1680  git clone git@github.com:ashokraj1978/Learn.git
+ 1681  sh-keygen -t rsa -b 4096 -C "ashok.nair.raj@gmail.com"
+ 1682  ssh-keygen -t rsa -b 4096 -C "ashok.nair.raj@gmail.com"
+ 1683  ls -ltr
+ 1684  cat a.pub
+ 1685  git clone git@github.com:ashokraj1978/Learn.git
+ 1686  git clone git@github.com:ashokraj1978/Learn.git -key a.pub
+ 1687  git config user.email "ashok.nair.raj@gmail.com"
+ 1688  git config user.name "ashokraj1978"
+ 1689  git config user.password "Ashwin2011Anu"
+ 1690  git clone git@github.com:ashokraj1978/Learn.git
+ 1691  eval "$(ssh-agent -s)"
+ 1692  ls -ltr
+ 1693  git clone https://github.com/ashokraj1978/Learn.git
+ 1694  ls -ltr
+ 1695  cd Learn
+ 1696  ls
+ 1697  ls -ltr
+ 1698  cat README.md
+ 1699  vi README.md
+ 1700  cd ..
+ 1701  git status
+ 1702  ls -ltr
+ 1703  pwd
+ 1704  cd Learn
+ 1705  git status .
+ 1706  git commut -
+ 1707  git commut -a
+ 1708  git commit -a
+ 1709  ls
+ 1710  vi ashok.txt
+ 1711  git status .
+ 1712  git push .
+ 1713  git commit .
+ 1714  git add .
+ 1715  git commit .
+ 1716  git commit -a .
+ 1717  git commit -a 
+ 1718  git push .
+ 1719  ls -ltr
+ 1720  git status
+ 1721  git push
+ 1722  xxxxxxxxxxxc
+ 1723  git push
+ 1724  ls -ltr
+ 1725  cd ..
+ 1726  ls -ltr
+ 1727  cat a.pub
+ 1728  pwd
+ 1729  cd Learn
+ 1730  git push
+ 1731  git config --global --unset credential.helper 
+ 1732  git push
+ 1733  ls -ltr
+ 1734  vi ashok.txt
+ 1735  git push
+ 1736  git commit
+ 1737  git commit .
+ 1738  git push
+ 1739  pwd
+ 1740  cd ..
+ 1741  pwd
+ 1742  ls
+ 1743  cd ..
+ 1744  ls -ltr
+ 1745  cd learn_2021
+ 1746  ls
+ 1747  cd golang
+ 1748  ls
+ 1749  cd ..
+ 1750  ls
+ 1751  cd
+ 1752  cd Documents
+ 1753  ls -ltr
+ 1754  hisotry
+ 1755  history
+ 1756  cd Account Number: 114601500088\n\nSwinft code : ICIC0001146\n\nAccount Holders Name: Ashok Raj\n\nBank Name: ICICI bank\n\nBranch: Gurgoan Sec 10A branch\n\nAddress: Huda Shopping complex ,Sco-8,Khandsa \n\nCity, State, Postal Code: Gurgoan, Haryana PIN :- 122001\n \n\nRoad,Sector-10A
+ 1757  cd learn_2021
+ 1758  s
+ 1759  ls
+ 1760  cd myrepo
+ 1761  ls
+ 1762  cd Learn
+ 1763  ls
+ 1764  cd ..
+ 1765  git branch
+ 1766  ls
+ 1767  git branch
+ 1768  ls
+ 1769  git checkout -b feature
+ 1770  ls
+ 1771  git merge feature
+ 1772  git checkout -b feature
+ 1773  pwd
+ 1774  cd Learn
+ 1775  ls
+ 1776  vi ashok.txt
+ 1777  git merge feature
+ 1778  git commit
+ 1779  git push ,
+ 1780  git push 
+ 1781  git commit .
+ 1782  git push 
+ 1783  git merge feature
+ 1784  pwd
+ 1785  ls
+ 1786  mkdir test_proj
+ 1787  cd test_proj
+ 1788  mkdir mypack
+ 1789  pwd
+ 1790  cd mypack
+ 1791  vi getname.go
+ 1792  pwd
+ 1793  cd ..
+ 1794  go mod init mypack
+ 1795  ls -ltr
+ 1796  cat go.mod
+ 1797  cd mypack
+ 1798  vi getname.go
+ 1799  cd ..
+ 1800  ls -ltr
+ 1801  vi main.go
+ 1802  go run main.go
+ 1803  vi main.go
+ 1804  ls -ltr
+ 1805  rm go.mod
+ 1806  cd mypack
+ 1807  go mod init mypack
+ 1808  go build .
+ 1809  ls -ltr
+ 1810  cd ..
+ 1811  pwd
+ 1812  vi main.go
+ 1813  go run main.go
+ 1814  go install main.go
+ 1815  pwd
+ 1816  vi main.go
+ 1817  go install main.go
+ 1818  vi main.go
+ 1819  go install main.go
+ 1820  ls
+ 1821  cd mypack
+ 1822  ls
+ 1823  cd ..
+ 1824  vi main.go
+ 1825  go install main.go
+ 1826  cd mypack
+ 1827  go mod tid
+ 1828  go mod tidy
+ 1829  cd ..
+ 1830  go mod tidy
+ 1831  go install main.go
+ 1832  vi main.go
+ 1833  go install main.go
+ 1834  vi main.go
+ 1835  go install main.go
+ 1836  vi main.go
+ 1837  go install main.go
+ 1838  mkdir /usr/local/go/src/mypack/
+ 1839  sudo mkdir /usr/local/go/src/mypack/
+ 1840  co ./mypack/getname.go /usr/local/go/src/mypack/
+ 1841  cp ./mypack/getname.go /usr/local/go/src/mypack/
+ 1842  sudo cp ./mypack/getname.go /usr/local/go/src/mypack/
+ 1843  go install main.go
+ 1844  ls -ltr /usr/local/go/src/mypack
+ 1845  cd /usr/local/go/src/mypack/
+ 1846  ls -ltr
+ 1847  id
+ 1848  sudo chown ashokraj:staff getname.go
+ 1849  ls -ltr
+ 1850  cd 
+ 1851  pwd
+ 1852  ls -ltr
+ 1853  cd Documents
+ 1854  cd learn_
+ 1855  cd learn_2021
+ 1856  ls
+ 1857  cd myrepo
+ 1858  ls
+ 1859  cd Learn
+ 1860  ls
+ 1861  cd test_proj
+ 1862  ls
+ 1863  go install main.go
+ 1864  pwd
+ 1865  cd ..
+ 1866  mkdir hello
+ 1867  cd hello
+ 1868  ls
+ 1869  go mod init example.com/user/hello
+ 1870  ls
+ 1871  cat go.mod
+ 1872  vi hello.go
+ 1873  go install hello.go
+ 1874  ls -ltr
+ 1875  go env 
+ 1876  hello
+ 1877  pwd
+ 1878  ls
+ 1879  go install hello.go
+ 1880  ls
+ 1881  hello
+ 1882  go install
+ 1883  ls
+ 1884  go install .
+ 1885  ls
+ 1886  pwd
+ 1887  cd $HOME/go/bin/
+ 1888  ls
+ 1889  ls -ltr
+ 1890  ./hello
+ 1891  cd $HOME/hello/
+ 1892  mkdir /Users/ashokraj/hello
+ 1893  cd /Users/ashokraj/hello
+ 1894  morestrings
+ 1895  mkdir morestrings
+ 1896  ls
+ 1897  cd morestrings
+ 1898  vi reverse.go 
+ 1899  go build
+ 1900  ls
+ 1901  ls -ltr
+ 1902  go build .
+ 1903  go run x.go
+ 1904  echo $GOPATH
+ 1905  pwd
+ 1906  cd $GOPATH
+ 1907  PWD
+ 1908  pwd
+ 1909  go env
+ 1910  v
+ 1911  cd
+ 1912  pwd
+ 1913  cd go
+ 1914  ls
+ 1915  cd pkh
+ 1916  cd pkg
+ 1917  ls
+ 1918  cd mod
+ 1919  ls
+ 1920  cd ..
+ 1921  cd sumdb
+ 1922  s
+ 1923  ls
+ 1924  cd ..
+ 1925  pwd
+ 1926  cd ..
+ 1927  ls
+ 1928  mkdir mypacks
+ 1929  cd mypacks
+ 1930  ls
+ 1931  pwd
+ 1932  vi sum.go
+ 1933  pwd
+ 1934  cd
+ 1935  cd  /Users/ashokraj/Desktop/concurrent-programming-go/02/demos/01_basic_course_demo/after/src/
+ 1936  ls
+ 1937  cd /usr/local/go/src/mypack/
+ 1938  ls
+ 1939  cd ..
+ 1940  ls
+ 1941  pwd
+ 1942  cd /usr/local/go/src/mypack/
+ 1943  pwd
+ 1944  cd /Users/ashokraj
+ 1945  cd go
+ 1946  ls
+ 1947  cd src
+ 1948  ls
+ 1949  cd ..
+ 1950  mv mypacks ./src
+ 1951  ls 
+ 1952  cd src
+ 1953  ls
+ 1954  cd mypacks
+ 1955  ls
+ 1956  vi sum.go
+ 1957  mv sum.go mysum.go
+ 1958  cat mysum.go 
+ 1959  ls
+ 1960  vi mysum.go
+ 1961  pwd
+ 1962  mkdir mysum
+ 1963  mv mysum ./mysum
+ 1964  mv mysum.go ./mysum
+ 1965  ls
+ 1966  pwd
+ 1967  cd mysum
+ 1968  go install mysum.go
+ 1969  cat mysum.go
+ 1970  vi mysum.go
+ 1971  go install mysum.go
+ 1972  pwd
+ 1973  ls
+ 1974  cat mysum.go
+ 1975  go clean -i mysum
+ 1976  pwd
+ 1977  cd /usr/local/go/src/
+ 1978  ls
+ 1979  mkdir mypacks
+ 1980  pwd
+ 1981  cd /Users/ashokraj/go/src/
+ 1982  ls
+ 1983  pwd
+ 1984  cd mypacks
+ 1985  ls
+ 1986  cd mysym
+ 1987  ls
+ 1988  cd mysum
+ 1989  ls
+ 1990  pwd
+ 1991  ls -ltr
+ 1992  go build mysum.go
+ 1993  go mod init
+ 1994  ls
+ 1995  go mod tidy
+ 1996  ls go.mod
+ 1997  cat go.mod
+ 1998  pwd
+ 1999  ls
+ 2000  pwd
+ 2001  ls
+ 2002  cd
+ 2003  cd /Users/ashokraj/Desktop/concurrent-programming-go/02/demos/01_basic_course_demo/after/src/
+ 2004  ls -ltr
+ 2005  go run x.go
+ 2006  go env
+ 2007  cd /Users/ashokraj/go
+ 2008  ls
+ 2009  cd pkg
+ 2010  cd ..
+ 2011  cd rcx
+ 2012  cd src
+ 2013  ls
+ 2014  cd mypacks
+ 2015  ls
+ 2016  cd mysum
+ 2017  ls
+ 2018  pwd
+ 2019  cd /Users/ashokraj/Desktop/concurrent-programming-go/02/demos/01_basic_course_demo/after/src/
+ 2020  ls
+ 2021  gu build x.go
+ 2022  go build x.go
+ 2023  ls -ltr /usr/local/go/src/mypacks
+ 2024  ls -ltr /usr/local/go/src/
+ 2025  ls -ltr /usr/local/go/src/mypack
+ 2026  pwd
+ 2027  cat  /usr/local/go/src/mypack/getname.go
+ 2028  ls
+ 2029  go run x.go
+ 2030  cat  /usr/local/go/src/mypack/getname.go
+ 2031  go run x.go
+ 2032  vi x.go
+ 2033  go run x.go
+ 2034  vi x.go
+ 2035  go run x.go
+ 2036  vi /usr/local/go/src/mypack/getname.go
+ 2037  cd /usr/local/go/src/mypack/
+ 2038  ls
+ 2039  go mod getname.go
+ 2040  go init mod
+ 2041  go mod int
+ 2042  go mod init
+ 2043  ls
+ 2044  go build getname.go
+ 2045  ls
+ 2046  cd /Users/ashokraj/Desktop/concurrent-programming-go/02/demos/01_basic_course_demo/after/src/
+ 2047  ls
+ 2048  go run x.go
+ 2049  vi x.go
+ 2050  pwd
+ 2051  cd /usr/local/go/src/mypack/getname.go
+ 2052  pwd
+ 2053  cd /Users/ashokraj/Desktop/concurrent-programming-go/02/demos/01_basic_course_demo/after/src\n
+ 2054  ls
+ 2055  go run x.go 
+ 2056  ls
+ 2057  pwd
+ 2058  mkdir utils
+ 2059  cd utils
+ 2060  ls
+ 2061  vi sayHello.go
+ 2062  pw
+ 2063  pwd
+ 2064  ls
+ 2065  go run x.go 
+ 2066  go help gopath
+ 2067  go env GOPAT
+ 2068  go env GOPATH
+ 2069  pwd
+ 2070  cd /Users/ashokraj/go
+ 2071  ls
+ 2072  cd src
+ 2073  ls
+ 2074  cd mypacks
+ 2075  ls
+ 2076  cd /usr/local/go/src/mypacks
+ 2077  mkdir /usr/local/go/src/mypacks
+ 2078  sudo /usr/local/go/src/my
+ 2079  sudo mkdir /usr/local/go/src/mypacks
+ 2080  cd /usr/local/go/src/mypacks
+ 2081  ls
+ 2082  cat sayHello.go
+ 2083  vi sayHello.go
+ 2084  sudo vi sayHello.go
+ 2085  ls
+ 2086  cat sayHello.go
+ 2087  ls
+ 2088  go mod init
+ 2089  go mod init .
+ 2090  pwd
+ 2091  ls
+ 2092  pwd
+ 2093  cd ..
+ 2094  go run x.go
+ 2095  exit
+ 2096  pwd
+ 2097  ls
+ 2098  cd data_structs
+ 2099  ls -ltr
+ 2100  go run linked_list1.go
+ 2101  ls -ltr
+ 2102  go run linked_list1.go
+ 2103  sudo kextcache --clear-staging\n\n
+ 2104  sudo spctl --master-disable
+ 2105  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+ 2106  ssh 10.0.2.15
+ 2107  ssh 192.168.56.102
+ 2108  ping 192.168.56.102
+ 2109  cd
+ 2110  brew update
+ 2111  brew upgrade
+ 2112  brew update
+ 2113  brew install hyperkit
+ 2114  brew install minikube
+ 2115  kubectl
+ 2116  minikube
+ 2117  minikube start --vm-driver=hyperkit
+ 2118  kubectl get nodes
+ 2119  minikube status
+ 2120  kubectl version
+ 2121  kubectl get nodes
+ 2122  kubectl get pod
+ 2123  kubectl get services
+ 2124  kubectl create deployment nginex-dep --image=nginx
+ 2125  kubectl get services
+ 2126  kubectl get pod
+ 2127  kubectl get replicaset
+ 2128  kubectl edit deployment nginex-dep
+ 2129  kubectl get pod
+ 2130  kubectl get logs
+ 2131  kubectl logs nginex-dep-ff5599d79-sdvk6 
+ 2132  kubectl create deployment mongo-depl --image=mongo
+ 2133  kubectl get logs
+ 2134  kubectl get pod
+ 2135  kubectl describe pod mongo-depl-5fd6b7d4b4-r7xcz
+ 2136  kubectl get pod
+ 2137  kubectl get deployment
+ 2138  kubectl get deploymentset
+ 2139  kubectl get deployment
+ 2140  kubectl delete deployment nginex-dep
+ 2141  kubectl get deployment
+ 2142  kubectl get pod
+ 2143  kubectl get replicaset
+ 2144  kubectl delete deployment mongodb-depl
+ 2145  kubectl delete deployment mongo-depl
+ 2146  kubectl get replicaset
+ 2147  kubectl get services
+ 2148  pwd
+ 2149  cd Documents
+ 2150  cd D3
+ 2151  ls
+ 2152  ls -ltr
+ 2153  cd 1
+ 2154  ls
+ 2155  cd 2
+ 2156  ls
+ 2157  cd ..
+ 2158  cd data
+ 2159  ;s
+ 2160  ls
+ 2161  cd ..
+ 2162  pwd
+ 2163  cd ..
+ 2164  ls -ltra
+ 2165  cd learn_docs
+ 2166  ;s
+ 2167  ls
+ 2168  cd ..
+ 2169  cd my-app
+ 2170  ;s
+ 2171  ls
+ 2172  cd ..
+ 2173  pwd
+ 2174  cd ..
+ 2175  ls -ktr
+ 2176  ls -ltra
+ 2177  cd d3-map
+ 2178  ls
+ 2179  cd ..
+ 2180  cd D3
+ 2181  ls
+ 2182  cd my-app
+ 2183  ls
+ 2184  cd src
+ 2185  ls
+ 2186  cd ..
+ 2187  pwd
+ 2188  ls
+ 2189  ls -ltra
+ 2190  cd 2
+ 2191  ls
+ 2192  cd ..
+ 2193  pwd
+ 2194  cd ..
+ 2195  git commit. 
+ 2196  git commit .
+ 2197  git commit 2
+ 2198  pwd
+ 2199  git status
+ 2200  git branch
+ 2201  git remote -v
+ 2202  git remote set-url origin https://github.com/ashokraj1978/D3.git
+ 2203  git commit .
+ 2204  git push .
+ 2205  git status
+ 2206  git push origin main 
+ 2207  git push origin 
+ 2208  git push 
+ 2209  kubectl get nodes
+ 2210  kubectl get all
+ 2211  kubectl apply -f https://k8s.io/examples/application/deployment.yaml --record
+ 2212  kubectl get all
+ 2213  kubectl get nodes
+ 2214  kubectl get podes
+ 2215  kubectl get pod
+ 2216  kubectl get all
+ 2217  clear
+ 2218  kubectl get all
+ 2219  kubectl describe pods
+ 2220  docker images
+ 2221  docker image prune
+ 2222  docker images
+ 2223  docker rmi $(docker images -a -q)
+ 2224  docker images
+ 2225  docker rmi c85003278768
+ 2226  docker -f  rmi c85003278768
+ 2227  docker images
+ 2228  docker stop c85003278768
+ 2229  docker stop 249b5694146e
+ 2230  docker ps
+ 2231  docker images
+ 2232  docker pull golang
+ 2233  docker images
+ 2234  docker start ec365f06285d
+ 2235  docker
+ 2236  docker start 
+ 2237  docker images
+ 2238  docker start container ec365f06285d
+ 2239  docker ps
+ 2240  kubectl
+ 2241  kubectl stop
+ 2242  kubectl top
+ 2243  kubectl stop
+ 2244  systemctl stop kubelet 
+ 2245  minikube
+ 2246  minikube stop
+ 2247  ssh ashok@192.168.1.10
+ 2248  ping 192.168.1.10
+ 2249  ssh ashok@192.168.1.10
+ 2250  brew install protobuf 
+ 2251  go get -u google.golang.org/grpc
+ 2252  pw
+ 2253  pwd
+ 2254  cd
+ 2255  pwd
+ 2256  cd go
+ 2257  ls
+ 2258  cd src
+ 2259  ls
+ 2260  pwd
+ 2261  mkdir github.com
+ 2262  cd github.com
+ 2263  ls
+ 2264  mkdir ashokraj1978
+ 2265  cd ashokraj1978
+ 2266  ls
+ 2267  mkdir grpc-go
+ 2268  cd grpc-go
+ 2269  ls
+ 2270  pwd
+ 2271  ls
+ 2272  protoc
+ 2273  protoc greet/greetpd/greet.proto --go_out = plugins =grpc:.
+ 2274  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2275  protoc ./greetpd/greet.proto --go_out=plugins=grpc:.
+ 2276  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2277  echo $PATH
+ 2278  pwd
+ 2279  protoc /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2280  protoc /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd/greet.proto --go_out=plugins=grpc: .
+ 2281  protocgreet/greetpd/greet.proto --go_out=plugins=grpc: .
+ 2282  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2283  export GO_PATH=~/go\nexport PATH=$PATH:/$GO_PATH/bin
+ 2284  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2285  go get -u google.golang.org/grpc
+ 2286  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2287  export GO_PATH=~/go$GO_PATH/bin
+ 2288  echo $GO_PATH
+ 2289  export GO_PATH=\nexport PATH=$PATH:/$GO_PATH/bin
+ 2290  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2291  echo $GO_PATH
+ 2292  pwd
+ 2293  export GO_PATH=~/go
+ 2294  echo $GO_PATH
+ 2295  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2296  pwd
+ 2297  protoc github.com/ashokraj1978/greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2298  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2299  export GO_PATH=~/go/src/github.com/ashokraj1978
+ 2300  protoc github.com/ashokraj1978/greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2301  cd greet
+ 2302  ls
+ 2303  cd greetpd
+ 2304  ls
+ 2305  protoc greet.proto --go_out=plugins=grpc:.
+ 2306  go get -u google.golang.org/protobuf/cmd/protoc-gen-go\ngo install google.golang.org/protobuf/cmd/protoc-gen-go\n\ngo get -u google.golang.org/grpc/cmd/protoc-gen-go-grpc\ngo install google.golang.org/grpc/cmd/protoc-gen-go-grpc
+ 2307  pwd
+ 2308  ls
+ 2309  go get -u google.golang.org/protobuf/cmd/protoc-gen-go
+ 2310  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 2311  protoc greet.proto --go_out=plugins=grpc:.
+ 2312  cd ..
+ 2313  pwd
+ 2314  cd ..
+ 2315  protoc github.com/ashokraj1978/greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2316  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2317  cd ..
+ 2318  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2319  cd grpc-go
+ 2320  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2321  pwd
+ 2322  ls
+ 2323  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2324  clear
+ 2325  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2326  protoc greet/greetpd/greet.proto --go_out=plugins=grpc: .
+ 2327  protoc greet/greetpd/greet.proto --go_out=plugins=grpc:.
+ 2328  protoc greet/greetpd/greet.proto
+ 2329  protoc greet/greetpd/greet.proto --go-grpc_out=.
+ 2330  ls
+ 2331  cat greet_grpc.pb.go
+ 2332  pwd
+ 2333  cd greet
+ 2334  l
+ 2335  cd greetpd
+ 2336  ls
+ 2337  cd ..
+ 2338  pwd
+ 2339  cd ..
+ 2340  ls
+ 2341  protoc greet/greetpd/greet.proto --go-grpc_out=./greet/greetpd/
+ 2342  go get -u google.golang.org/grpc
+ 2343  echo $GO{ATH
+ 2344  echo $GOPATH
+ 2345  go install google.golang.org/protobuf/cmd/protoc-gen-go
+ 2346  go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
+ 2347  go get -u github.com/golang/protobuf/protoc-gen-go
+ 2348  echo $GOPATH
+ 2349  echo $GOROOT
+ 2350  pwd
+ 2351  cd /usr/local/go/src/github.com/golang/protobuf/
+ 2352  ls
+ 2353  cd greet
+ 2354  ls
+ 2355  cd greetpd
+ 2356  ls
+ 2357  cd ...
+ 2358  pwd
+ 2359  cd ..
+ 2360  protoc greet/greetpd/greet.proto --go-grpc_out=./greet/greetpd/
+ 2361  go install github.com/golang/protobuf/protoc-gen-go
+ 2362  go install github.com/golang/protobuf/protoc-gen-go@latest
+ 2363  ls
+ 2364  pwd
+ 2365  go install github.com/golang/protobuf/protoc-gen-go@latest .
+ 2366  go get -u google.golang.org/grpc
+ 2367  pwd
+ 2368  ls
+ 2369  go env
+ 2370  go get -u google.golang.org/grpc
+ 2371  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.1
+ 2372  export PATH="$PATH:$(go env GOPATH)/bin"
+ 2373  go get -u google.golang.org/grpc
+ 2374  pwd
+ 2375  ls
+ 2376  cd greet
+ 2377  ls
+ 2378  cd greet_server
+ 2379  ls
+ 2380  go mod init
+ 2381  ks
+ 2382  ls
+ 2383  go mod tidy
+ 2384  ls
+ 2385  go install-u google.golang.org/grpc
+ 2386  go install  google.golang.org/grpc
+ 2387  go install google.golang.org/grpc@lates
+ 2388  go install google.golang.org/grpc@latest
+ 2389  go install google.golang.org/grpc
+ 2390  go install google.golang.org/grpc@latest
+ 2391  go -version
+ 2392  go version
+ 2393  set GO111MODULE=on
+ 2394  set GO111MODULE=on.
+ 2395  set GO111MODULE=on
+ 2396  pwd
+ 2397  cd ..
+ 2398  pwd
+ 2399  cd ashokraj1978
+ 2400  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2401  git remote remove origin
+ 2402  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2403  pwd
+ 2404  git push
+ 2405  git commit
+ 2406  git commit .
+ 2407  git commit ./
+ 2408  git push .
+ 2409  git ocmmit .
+ 2410  git commit
+ 2411  git branch -M main
+ 2412  git push -u origin main
+ 2413  git remote -v
+ 2414  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2415  git branch -M main
+ 2416  git push -u origin main
+ 2417  git remote add origin git@github.com:ashokraj1978/grpc-go.git
+ 2418  git push -u origin main
+ 2419  git commit .
+ 2420  git commit 
+ 2421  cd  /usr/local/git 
+ 2422  git init
+ 2423  ls -ltra
+ 2424  em .git
+ 2425  rm -rf .git
+ 2426  cd grpc-go
+ 2427  git init
+ 2428  git commit 
+ 2429  pwd
+ 2430  git add .
+ 2431  git commit
+ 2432  git push
+ 2433  git push .
+ 2434  git push ma
+ 2435  git push -u origin main
+ 2436  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2437  git push .
+ 2438  git commit
+ 2439  git remote show origin
+ 2440  git push ./
+ 2441  git commit.
+ 2442  git push origin -f
+ 2443  pwd
+ 2444  cd ..
+ 2445  git push origin -f
+ 2446  pwd
+ 2447  history
+ 2448  ls -ltra
+ 2449  cd .
+ 2450  ls
+ 2451  pwd
+ 2452  ls -ltra
+ 2453  cd grpc-go
+ 2454  ls
+ 2455  cd greet
+ 2456  ls
+ 2457  ls -ltra
+ 2458  cd ..
+ 2459  pwd
+ 2460  ls -ltra
+ 2461  rm -rf .git
+ 2462  cd grpc-go
+ 2463  go init
+ 2464  git init
+ 2465  ls -ltr
+ 2466  pwd
+ 2467  rm -rf .git
+ 2468  git remote add origin git@github.com:ashokraj1978/grpc-go.git
+ 2469  ls -ltr
+ 2470  pwd
+ 2471  cd ..
+ 2472  git branch -M main
+ 2473  git push -u origin main
+ 2474  ls -ltra
+ 2475  cd ..
+ 2476  pwd
+ 2477  sl -ltra
+ 2478  ls -ltra
+ 2479  cd ashokraj1978
+ 2480  ls
+ 2481  it status
+ 2482  git status
+ 2483  pwd
+ 2484  cd ..
+ 2485  pwd
+ 2486  git init
+ 2487  ls -lra
+ 2488  rm -rf .git
+ 2489  pwd
+ 2490  ls
+ 2491  cd ashokraj1978
+ 2492  ls
+ 2493  touch README.md
+ 2494  ls
+ 2495  git commit -m "first commit"
+ 2496  git config --global 
+ 2497  cd ~Home
+ 2498  cd ~ashokraj
+ 2499  ls -ltra
+ 2500  ls *git
+ 2501  ls *git*
+ 2502  cat .gitconfig
+ 2503  cd .config
+ 2504  ls
+ 2505  ls -ltr
+ 2506  cd ..
+ 2507  ls -ltr
+ 2508  ls -ltra
+ 2509  cd ,git
+ 2510  pwd
+ 2511  cd .git/
+ 2512  ls -ltr
+ 2513  cd config
+ 2514  cat config
+ 2515  cd logs
+ 2516  ls
+ 2517  git ls-files 
+ 2518  git update-index --skip-worktree  Documents/D3
+ 2519  git rm -r -- cached.
+ 2520  git ls-files 
+ 2521  git clean -f -d
+ 2522  cd 
+ 2523  cd Documents
+ 2524  git clean -f -d
+ 2525  ls -ltr
+ 2526  cd Library
+ 2527  sudo -
+ 2528  sudo cd Library
+ 2529  ls
+ 2530  pwd
+ 2531  cd GitHub
+ 2532  ls
+ 2533  cd Games
+ 2534  ls
+ 2535  cd ..
+ 2536  pwd
+ 2537  ls
+ 2538  pwd
+ 2539  cd ..
+ 2540  ls -ltr
+ 2541  cd Library
+ 2542  sudo su -
+ 2543  ls
+ 2544  cd Library
+ 2545  ls
+ 2546  cd D3
+ 2547  ls
+ 2548  cd ..
+ 2549  history
+ 2550  git ls-files 
+ 2551  ls -ltra
+ 2552  cat ,DS_Store
+ 2553  cd learn_2021
+ 2554  ls
+ 2555  cd myrepo
+ 2556  ls
+ 2557  cd Learn
+ 2558  ls
+ 2559  cd ..
+ 2560  df -g
+ 2561  ls -ltrh
+ 2562  df -gh
+ 2563  ls
+ 2564  cd Learn
+ 2565  ls
+ 2566  cd hello
+ 2567  ls
+ 2568  cd ..
+ 2569  pwd
+ 2570  cd ..
+ 2571  ls
+ 2572  cd ..
+ 2573  ls
+ 2574  cd jav
+ 2575  cd java
+ 2576  ls
+ 2577  cd src
+ 2578  ls
+ 2579  cd ..
+ 2580  pwd
+ 2581  ls
+ 2582  cd 
+ 2583  cd Documents
+ 2584  ls -ltr
+ 2585  rm -rf learn_scala
+ 2586  cd GitHub
+ 2587  s
+ 2588  ls
+ 2589  cd Games
+ 2590  ls
+ 2591  cd  ..
+ 2592  pwd
+ 2593  cd ..
+ 2594  rm -rf GitHub
+ 2595  ls -ltr
+ 2596  cd ashokSpark
+ 2597  ls
+ 2598  cd ,,,
+ 2599  cd ..
+ 2600  rm -rf ashokSpark
+ 2601  ls
+ 2602  ls -ltr
+ 2603  cd flutter
+ 2604  ls
+ 2605  cd ..
+ 2606  pwd
+ 2607  cd ~ashokraj/go
+ 2608  ls
+ 2609  cd src
+ 2610  ls
+ 2611  cd github.com
+ 2612  ls
+ 2613  cd ashokraj1978
+ 2614  ls -ltr
+ 2615  cd grpc-go
+ 2616  ls
+ 2617  git init
+ 2618  touch readME.md 
+ 2619  git commit -m "enter commit message here"
+ 2620  ls
+ 2621  ls -ltra
+ 2622  git remote add origin git@github.com:ashokraj1978/grpc-go.git
+ 2623  git push -u origin master
+ 2624  curl -u ashokraj1978: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 https://api.github.com/user/repos -d '{"name":"grpc-go"}'
+ 2625  git push -u origin master
+ 2626  git remote add origin git@github.com:ashokraj1978/grpc-go.git
+ 2627  git branch -M main
+ 2628  git push -u origin main
+ 2629  ls
+ 2630  pwd
+ 2631  ls -ltra
+ 2632  rm .git
+ 2633  cd ,git
+ 2634  ls
+ 2635  cd .git
+ 2636  ls
+ 2637  cd ..
+ 2638  rm -rf .git
+ 2639  pwd
+ 2640  git push -u origin master\n
+ 2641  pwd
+ 2642  git init
+ 2643  pwd
+ 2644  git add  greet/
+ 2645  git push -u origin master\n
+ 2646  git remote add origin git@github.com:ashokraj1978/grpc-go.git
+ 2647  git push -u origin master\n
+ 2648  pwd
+ 2649  ls -ltr
+ 2650  ls -ltra
+ 2651  rn -rf .git
+ 2652  rm -rf .git
+ 2653  git push -u origin master\n
+ 2654  ls
+ 2655  git status
+ 2656  brew uninstall git
+ 2657  git reset
+ 2658  git status
+ 2659  git commit -a
+ 2660  git
+ 2661  git rebase
+ 2662  git reset
+ 2663  git rebase
+ 2664  git status
+ 2665  ls
+ 2666  cd ..
+ 2667  pwd
+ 2668  cd grpc-go
+ 2669  git add greet
+ 2670  git push -u origin master\n
+ 2671  git commit -a
+ 2672  git push -u origin master\n
+ 2673  git merge
+ 2674  git push 
+ 2675  exit
+ 2676  cd /
+ 2677  cd 
+ 2678  cd Documents
+ 2679  mkdir git_lern
+ 2680  cd git_lern
+ 2681  ls
+ 2682  git init
+ 2683  ls -la
+ 2684  cd ,git
+ 2685  ls
+ 2686  ls -ltra
+ 2687  cd .git
+ 2688  ls
+ 2689  cat config
+ 2690  cat HEAD
+ 2691  cd info
+ 2692  ls
+ 2693  cat exclude
+ 2694  pwd
+ 2695  ls
+ 2696  cd..
+ 2697  ls
+ 2698  cd ..
+ 2699  ls
+ 2700  pwd
+ 2701  cd ..
+ 2702  ls
+ 2703  echo "Hello, Git" | git hash-object --stdin
+ 2704  pwd
+ 2705  cd .git
+ 2706  ls
+ 2707  cd objects
+ 2708  ls
+ 2709  ls -ltra
+ 2710  cd ..
+ 2711  ls -ltra
+ 2712  cd objects
+ 2713  ls
+ 2714  cd pack
+ 2715  ls
+ 2716  ls -ltra
+ 2717  cd ..
+ 2718  cd info
+ 2719  ls -ltra
+ 2720  cd ..
+ 2721  pwd
+ 2722  cd ,,,
+ 2723  echo "Hello, Git" | git hash-object --stdin -w
+ 2724  pwd
+ 2725  ls -ltr
+ 2726  cd b7
+ 2727  ls -ltra
+ 2728  pwd
+ 2729  git cat-file -p aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+ 2730  pwd
+ 2731  ls 
+ 2732  pwd
+ 2733  cd ..
+ 2734  git cat-file -p b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+ 2735  git cat-file -t b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+ 2736  git cat-file -s b7aec520dec0a7516c18eb4c68b64ae1eb9b5a5e
+ 2737  cd
+ 2738  cd Desktop
+ 2739  ls
+ 2740  pwd
+ 2741  echo "Second file in Git repository" > new-file.txt
+ 2742  ls -ltra
+ 2743  cat new-file.txt
+ 2744  history
+ 2745  ls -ltra
+ 2746  cd git_lern
+ 2747  cd /
+ 2748  cd
+ 2749  ls -ltra
+ 2750  cd u
+ 2751  cd udacity
+ 2752  ls
+ 2753  cat p.py
+ 2754  cd ..
+ 2755  pwd
+ 2756  rm -rf udacity
+ 2757  ls -ltra
+ 2758  cd Documents
+ 2759  ls -lta
+ 2760  cd git_lern
+ 2761  ls -ltra
+ 2762  pwd
+ 2763  git hash-object ~/Desktop/new-file.txt
+ 2764  git hash-object ~/Desktop/new-file.txt -w
+ 2765  pwd
+ 2766  cd .git
+ 2767  ls
+ 2768  cd objects
+ 2769  ls -ltra
+ 2770  cd 44
+ 2771  ls
+ 2772  cat 00aae52a27341314f423095846b1f215a7cf08
+ 2773  ls -ltra
+ 2774  clear
+ 2775  ls -ltra
+ 2776  git cat-file -p 00aae52a27341314f423095846b1f215a7cf08
+ 2777  git cat-file -p 4400aae52a27341314f423095846b1f215a7cf08
+ 2778  git cat-file -t 4400aae52a27341314f423095846b1f215a7cf08
+ 2779  git cat-file -s 4400aae52a27341314f423095846b1f215a7cf08
+ 2780  pwd
+ 2781  cd ..
+ 2782  ls -ltra
+ 2783  git ls-files
+ 2784  pwd
+ 2785  ls -ltra
+ 2786  cd ..
+ 2787  pwd
+ 2788  git ls-files
+ 2789  ped
+ 2790  cd ..
+ 2791  ls
+ 2792  ls -ltra
+ 2793  find ./git/objects
+ 2794  find ../git/objects
+ 2795  find . .git/objects
+ 2796  find . .git/objects -type f
+ 2797  find .git/objects -type f
+ 2798  git ls-files -f
+ 2799  git ls-files -s
+ 2800  git config -global
+ 2801  git config --global
+ 2802  git config 
+ 2803  git config --get-all
+ 2804  git config --global --get-all
+ 2805  git config --global user.name "ashokraj1978\n"
+ 2806  git config --global user.name "ashokraj1978"
+ 2807  git config --global user.email "ashok.nair.raj@gmail.com"
+ 2808  git config --global -e
+ 2809  git config --global core.autocrlf input
+ 2810  pwd
+ 2811  ped
+ 2812  ls
+ 2813  vi f2.txt
+ 2814  git add f2.txt
+ 2815  git status
+ 2816  git commit -m "ashok first" 
+ 2817  git status -s
+ 2818  pwd
+ 2819  ls
+ 2820  vi k.txt
+ 2821  git status -s
+ 2822  ls -ltr
+ 2823  vi f2.txt
+ 2824  git status -s
+ 2825  git add f2.txt
+ 2826  git status -s
+ 2827  git log
+ 2828  git log -oneline
+ 2829  git log --oneline
+ 2830  git log 
+ 2831  git log
+ 2832  pwd
+ 2833  ls
+ 2834  pwd
+ 2835  git clone https://github.com/ashokraj1978/Learn.git
+ 2836  ls -ltr
+ 2837  cd Learn
+ 2838  ls
+ 2839  vi k.txt
+ 2840  git status
+ 2841  git commit
+ 2842  git add k.txt
+ 2843  git commit
+ 2844  git push 
+ 2845  pwd
+ 2846  ls -ltr
+ 2847  pwd
+ 2848  cd ..
+ 2849  git init
+ 2850  pwd
+ 2851  ls
+ 2852  git init
+ 2853  ls -ltr
+ 2854  ls -ltra
+ 2855  rm -rf README.md
+ 2856  rm -rf .git
+ 2857  git init
+ 2858  pw
+ 2859  pwd
+ 2860  ls -ltr
+ 2861  pwd
+ 2862  cd /Users/ashokraj/go/src/github.com/ashokraj1978
+ 2863  ls -ltr
+ 2864  ls -ltra
+ 2865  pwd
+ 2866  git status
+ 2867  git commit 
+ 2868  git commit grpc-go
+ 2869  git commit grpc-go/
+ 2870  ls -ltr
+ 2871  ls -ltra
+ 2872  git add .
+ 2873  git status
+ 2874  git commit
+ 2875  git status
+ 2876  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2877  git init
+ 2878  git add .
+ 2879  git commit
+ 2880  git push -u origin main
+ 2881  git init
+ 2882  l s-ltr
+ 2883  ls -ltra
+ 2884  rm -rf .git
+ 2885  ls -ltr
+ 2886  git init
+ 2887  git add .
+ 2888  git commit
+ 2889  git branch -M main
+ 2890  git remote add origin https://github.com/ashokraj1978/grpc-go.git
+ 2891  git branch -M main
+ 2892  git push -u origin main
+ 2893  ls
+ 2894  pwd
+ 2895  ls
+ 2896  cd grpc-go
+ 2897  ls
+ 2898  cd greet
+ 2899  ls
+ 2900  ./generate.sh
+ 2901  ls -lr
+ 2902  sh generate.sh
+ 2903  pwd
+ 2904  ls
+ 2905  cd grpc-go
+ 2906  ls
+ 2907  cd greet
+ 2908  ls
+ 2909  cat generate.sh
+ 2910  sh generate.sh
+ 2911  pwd
+ 2912  ls -ltr
+ 2913  cd ..
+ 2914  ls
+ 2915  ./greet/generate.sh
+ 2916  sh ./greet/generate.sh
+ 2917  cd greet
+ 2918  ls -ltr
+ 2919  ls
+ 2920* pwd
+ 2921  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet\n
+ 2922  ls
+ 2923  ls -ltr
+ 2924  clear
+ 2925  sh ./greet/generate.sh
+ 2926  ls
+ 2927  cat generate.sh
+ 2928  cd greetpd
+ 2929  protoc greet.proto
+ 2930  protoc greet.proto .
+ 2931  ls -ltr
+ 2932  ls -ltr /usr/local/go/src/mypack
+ 2933  protoc greet.proto --go-grpc_out=. 
+ 2934  ls -ltr
+ 2935  owe
+ 2936  pwd
+ 2937  protoc greet.proto --go-grpc_out=/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd/
+ 2938  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.1
+ 2939  protoc greet.proto --go-grpc_out=. 
+ 2940  export PATH="$PATH:$(go env GOPATH)/bin"
+ 2941  protoc greet.proto --go-grpc_out=. 
+ 2942  ls -ltr
+ 2943* pwd
+ 2944* ls
+ 2945* cd greet_server
+ 2946* ls
+ 2947* go run server.go
+ 2948  git status
+ 2949  git commit
+ 2950  git commit -a
+ 2951  hisotry
+ 2952  history
+ 2953  git push -u origin main
+ 2954  git push
+ 2955* go run server.go
+ 2956* go get github.com/ashokraj1978/grpc-go/grpc-go/greet/greetpd
+ 2957* go run server.go
+ 2958  history
+ 2959  pwd
+ 2960  ls
+ 2961  protoc greet.proto --go-grpc_out=. 
+ 2962  ls -ltr
+ 2963  git status
+ 2964  git commit
+ 2965  history
+ 2966  git commit -a
+ 2967  git push -u origin main
+ 2968* go run server.go
+ 2969  protoc --go_out=plugins=grpc:. *.proto
+ 2970  ls
+ 2971* go run server.go
+ 2972  protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greet.proto
+ 2973  pwd
+ 2974  ls
+ 2975  protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greet.proto
+ 2976  protoc greet.proto --go-grpc_out=. 
+ 2977  ls
+ 2978  git commit -a
+ 2979  git push -u origin main
+ 2980* go run server.go
+ 2981  protoc greet.proto --go-grpc_out=. 
+ 2982  ls
+ 2983  cd github.com
+ 2984  ls
+ 2985  cd ashokraj1978
+ 2986  ls
+ 2987  cd grpc-go
+ 2988  ls
+ 2989  cd grpc-go
+ 2990  ls
+ 2991  cd greet
+ 2992  ls
+ 2993  cd greetpd
+ 2994  ls
+ 2995  ls -ltr
+ 2996  cd ..
+ 2997  pwd
+ 2998  cd ..
+ 2999  cd 
+ 3000  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd
+ 3001  ls
+ 3002  rm -rf github.com
+ 3003  ls
+ 3004  protoc greet.proto --go-grpc_out=. 
+ 3005  ls
+ 3006  protoc greet.proto --go-grpc_out=. 
+ 3007  ls
+ 3008  ls protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greet.proto
+ 3009  protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greet.proto
+ 3010  pwd
+ 3011  cd ..
+ 3012  protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greetpd/greet.proto
+ 3013  protoc --go_out=./greetpd --go-grpc_out=./greetpd --go-grpc_opt=paths=greetpd/greet.proto
+ 3014  pls
+ 3015  ls
+ 3016  protoc --go_out=./greetpd --go-grpc_out=./greetpd --go-grpc_opt=paths=greetpd/greet.proto
+ 3017  protoc --go_out=/greetpd --go-grpc_out=/greetpd --go-grpc_opt=paths=greetpd/greet.proto
+ 3018  protoc --go_out=greetpd --go-grpc_out=greetpd --go-grpc_opt=paths=greetpd/greet.proto
+ 3019  cd greet
+ 3020  cd greetpd
+ 3021  protoc greet.proto --go-grpc_out=.  --go_out=.  
+ 3022  protoc greet.proto --go-grpc_out=.  
+ 3023  ls
+ 3024  rm greet_grpc.pb.go
+ 3025  protoc greet.proto --go-grpc_out=.  
+ 3026  ls
+ 3027  protoc --go_out=plugins=grpc:. greet.proto
+ 3028  protoc --go_out=plugins=grpc:. greetpd/greet.proto
+ 3029  cd ..
+ 3030  protoc --go_out=plugins=grpc:. greetpd/greet.proto
+ 3031  cd greetpd
+ 3032  ls
+ 3033  protoc greet.proto --go-grpc_out=.  --go_out=plugins=grpc
+ 3034  protoc greet.proto   --go_out=plugins=grpc
+ 3035  protoc greet.proto   --go_out=plugins=grpc:.
+ 3036  protoc greet.proto  
+ 3037  protoc greet.proto  --go-grpc_out=. 
+ 3038  ls
+ 3039  protoc greet.proto   --go_out=plugins=grpc:.
+ 3040  protoc greet.proto  --go-grpc_out=. 
+ 3041  protoc greet.proto   --go_out=plugins=grpc:.
+ 3042  protoc greet.proto --go-grpc_out=.  
+ 3043  ls
+ 3044  protoc greet.proto --go-grpc_out=.  
+ 3045  ls
+ 3046  protoc
+ 3047  pwd
+ 3048  ls
+ 3049  protoc -I=/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd --go_out=/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd/greet.proto\n
+ 3050  protoc -I=/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd --go_out=.\n
+ 3051  protoc -I=/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd --go_out=greet.proto\n
+ 3052  protoc --go_out=plugins=grpc:greet greet.proto
+ 3053  protoc  greet.proto  --go-grpc_out=.
+ 3054  ls
+ 3055  ls -ltra
+ 3056  rm -rf github.com
+ 3057  ls -ltra
+ 3058  protoc  greet.proto  --go-grpc_out=.
+ 3059  ls
+ 3060  history
+ 3061  git commit -a
+ 3062  git push -u origin main
+ 3063  protoc  greet.proto  --go-grpc_out=.
+ 3064  protoc  greet.proto  --go-grpc_out=. --go_opt=paths=source_relative
+ 3065  protoc --go-grpc_out=. --go_opt=paths=source_relative greet.proto
+ 3066  protoc --help
+ 3067  brew upgrade protobuf
+ 3068  protoc --go-grpc_out=. --go_opt=paths=source_relative greet.proto
+ 3069  brew install protobuf
+ 3070  brew reinstall protobuf
+ 3071  protoc --go-grpc_out=. --go_opt=paths=source_relative greet.proto
+ 3072  protoc --version
+ 3073  go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.26
+ 3074  export PATH="$PATH:$(go env GOPATH)/bin"
+ 3075  protoc --go-grpc_out=. --go_opt=paths=source_relative greet.proto
+ 3076  protoc --go_out=. --go_opt=paths=source_relative  --go-grpc_out=. --go-grpc_opt=paths=source_relative greet.proto
+ 3077  ls -ltr
+ 3078  git commit -a
+ 3079  git -a commit
+ 3080  git commit -a
+ 3081  git add greet.pb.go
+ 3082  git commit -a
+ 3083  git push -u origin main
+ 3084* go run server.go
+ 3085* go get github.com/ashokraj1978/grpc-go/tree/main/grpc-go/greet/greetpd
+ 3086* go run server.go
+ 3087  protoc --go_out=. --go_opt=paths=source_relative  --go-grpc_out=. --go-grpc_opt=paths=source_relative greet.proto
+ 3088* go run server.go
+ 3089  cd /usr/local/go/src/greet/
+ 3090  cd /usr/local/go/src/
+ 3091  ls
+ 3092  mkdir greet
+ 3093  cd /
+ 3094  pwd
+ 3095  cd
+ 3096  pwd
+ 3097  cd 
+ 3098  history
+ 3099  cd /Users/ashokraj/go/src/
+ 3100  ls
+ 3101* go run server.go
+ 3102* pwd
+ 3103* cd ..
+ 3104* pwd
+ 3105* cd ..
+ 3106* pwd
+ 3107* export GOPATH="Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go"
+ 3108* go run server.go
+ 3109* cd greet
+ 3110* cd greetpd
+ 3111* ls
+ 3112* cd ..
+ 3113* cd greet_server
+ 3114* ls
+ 3115* go run server.go
+ 3116  go help gopath
+ 3117  go help importpath
+ 3118* export GOPATH="Users/ashokraj/go"
+ 3119* go run server.go
+ 3120* pwd
+ 3121* cd ..
+ 3122* ls
+ 3123* go run server.go
+ 3124* ls
+ 3125* cd greet_server
+ 3126* ls
+ 3127* go run server.go
+ 3128* export GOPATH="$HOME/go"
+ 3129* go run server.go
+ 3130* go get github.com/ashokraj1978/grpc-go/greet/greepd
+ 3131  ls
+ 3132  pwd
+ 3133  cd github.com
+ 3134  ls
+ 3135  cd ashokraj1978
+ 3136  cd grpc-go
+ 3137  ls
+ 3138  cd greet
+ 3139  ls
+ 3140  cd greetpd
+ 3141  ls
+ 3142  cat greet.proto
+ 3143  pwd
+ 3144  cd ..
+ 3145  cd calculate
+ 3146  ls
+ 3147  go mod init calpackages
+ 3148  ls
+ 3149  cat go.mod
+ 3150  rm go.mod
+ 3151  go mod init calculate/calpackages
+ 3152  ls
+ 3153  cat go.mod
+ 3154  vi main.go
+ 3155  go run main.go
+ 3156  ll
+ 3157  v go.mod
+ 3158  set completion-ignore-case on
+ 3159  set show-all-if-ambiguous on
+ 3160  vim /.inputrc
+ 3161  vim /.inputrc.
+ 3162  vim /.inputrc
+ 3163  ls
+ 3164  cat go.mod
+ 3165  mkdir calpackages
+ 3166  cd calpackages
+ 3167  vi calpackages.go
+ 3168  cd ..
+ 3169  vi main.go
+ 3170  pwd
+ 3171  vi main.go
+ 3172  go main.go
+ 3173  go run main.go
+ 3174  open $GOPATH
+ 3175  echo $GOPATH
+ 3176  echo $GOROOT
+ 3177  open $GOROOT
+ 3178  open $GOPATH
+ 3179  go env output
+ 3180  brew update
+ 3181  brew install golang
+ 3182  go env output
+ 3183  open $GOROOT
+ 3184  go run main.go
+ 3185  go env 
+ 3186  cd /Users/ashokraj/go
+ 3187  ls
+ 3188  cd src
+ 3189  ls
+ 3190  cd github.com
+ 3191  ls
+ 3192  cd ashokraj1978
+ 3193  ls
+ 3194  cd grpc-go
+ 3195  ls
+ 3196  cd calculate
+ 3197  ls
+ 3198  pwd
+ 3199  cd calpackages
+ 3200  cd ..
+ 3201  ls
+ 3202  cat go.mod
+ 3203  vi main.go
+ 3204  go run main.go
+ 3205  vi main.go
+ 3206  go run main.go
+ 3207  \tgo get github.com/ashokraj1978/grpc-go/calculate/calpackages\n
+ 3208  go run main.go
+ 3209  vi main.go
+ 3210  go run main.go
+ 3211  \tgo get github.com/ashokraj1978/grpc-go/calculate/calpackages/calpackages\n
+ 3212  go run main.go
+ 3213  pwd
+ 3214  git status
+ 3215  ls
+ 3216  rm go.mod
+ 3217  cd calpackages
+ 3218  ls
+ 3219  vi calpackages.go
+ 3220  cd ..
+ 3221  ls
+ 3222  cd calpackages
+ 3223  ls
+ 3224  cat calpackages.go
+ 3225  vi main.go
+ 3226  cd ..
+ 3227  vi main.go
+ 3228  go run main.go
+ 3229  pwd
+ 3230  vi main.go
+ 3231  go run main.go
+ 3232  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/calculate/calpackages/mypack
+ 3233  pwd
+ 3234  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/calculate/calpackages
+ 3235  ls
+ 3236  cat calpackages.go
+ 3237  cd ..
+ 3238  vi main.go
+ 3239  go run main.go
+ 3240  cat main.go
+ 3241  cd calpackages
+ 3242  ls
+ 3243  cat calpackages.go
+ 3244  vi calpackages.go
+ 3245  cd ..
+ 3246  vi main.go
+ 3247  go run main.go
+ 3248  vi main.go
+ 3249  go run main.go
+ 3250  vi main.go
+ 3251  go run main.go
+ 3252  ls
+ 3253  cd calpackages
+ 3254  ls
+ 3255  vi calpackages.go
+ 3256  go run calpackages.go
+ 3257  vi main.go
+ 3258  cd ..
+ 3259  vi main.go
+ 3260  go run calpackages.go
+ 3261  go run main.go
+ 3262  mkdir \t/usr/local/go/src/github.com/ashokraj1978/grpc-go/calculate/calpackages/mypack (from $GOROOT)\n\t/Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/calculate/calpackage
+ 3263  mkdir /Users/ashokraj/go/src/calculate/calpackages 
+ 3264  mkdir -p /Users/ashokraj/go/src/calculate/calpackages 
+ 3265  pwd
+ 3266  cd calpackages
+ 3267  cp calpackages.go /Users/ashokraj/go/src/calculate/calpackages
+ 3268  cd ..
+ 3269  go run main.go
+ 3270  cd calpackages
+ 3271  cat calpackages.go
+ 3272  cd ..
+ 3273  vi main.go
+ 3274  go run main.go
+ 3275  vi /Users/ashokraj/go/src/calculate/calpackages/calpackages.go
+ 3276  vi main.go
+ 3277  go run main.go
+ 3278  cd /Users/ashokraj/go/src/
+ 3279  ;s
+ 3280  ls
+ 3281  cd github.com
+ 3282  ls
+ 3283  cd ashokraj1978
+ 3284  ls
+ 3285  cd grpc-go
+ 3286  ls
+ 3287  cd greet
+ 3288  ls
+ 3289* go get github.com/ashokraj1978/grpc-go/greet/greepd
+ 3290* go run main.goçl
+ 3291* ls
+ 3292* go run server.go
+ 3293  pwd
+ 3294  ls
+ 3295  cd ..
+ 3296  ls
+ 3297  cd greet/greet
+ 3298  cd greet
+ 3299  cd greet_server
+ 3300  ls
+ 3301  go run server.go
+ 3302  go get github.com/ashokraj1978/grpc-go/greet/greepd
+ 3303  go run server.go
+ 3304  cd ..
+ 3305  cd greetpd
+ 3306  ls
+ 3307  vi greet.proto
+ 3308  pwd
+ 3309  cd ..
+ 3310  pwd
+ 3311  cd ..
+ 3312  cd calculate
+ 3313  ls
+ 3314  cat main.go
+ 3315  vi main.go
+ 3316  go run main.go
+ 3317  go env
+ 3318* export PATH=/usr/local/go/bin:$PATH
+ 3319* clear
+ 3320* ls
+ 3321* pwd
+ 3322* cd ..
+ 3323* cd calculate
+ 3324* go run main.go
+ 3325* cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/calculate
+ 3326* go mod
+ 3327* go init mod
+ 3328* go init
+ 3329* go mod init
+ 3330* ls
+ 3331  history
+ 3332  cd /Users/ashokraj/go/src/calculate/calpackages
+ 3333  ls
+ 3334  cd ..
+ 3335  go mod init
+ 3336* ls
+ 3337  cd /Users/ashokraj/go/src/calculate/calpackages 
+ 3338  ls
+ 3339  go init mod
+ 3340  go mod init
+ 3341  cd /Users/ashokraj/go/src/calculate/calpackages
+ 3342  ;s
+ 3343  ls
+ 3344  cat calpackages.go
+ 3345* ls
+ 3346* go run main.go
+ 3347* cat main.go
+ 3348  pwd
+ 3349  go env
+ 3350* export PATH=/usr/local/Cellar/go/1.17.1/libexec/bin:$PATH
+ 3351* clear
+ 3352* export PATH=/usr/local/Cellar/go/1.17.1/libexec/bin:$PATH
+ 3353* clear
+ 3354* export PATH=/usr/local/Cellar/go/1.17.1/libexec/bin:$PATH
+ 3355* clear
+ 3356* export PATH=/usr/local/Cellar/go/1.17.1/libexec/bin:$PATH
+ 3357* clear
+ 3358* export PATH=/usr/local/Cellar/go/1.17.1/libexec/bin:$PATH
+ 3359* clear
+ 3360  pwd
+ 3361  cd /Users/ashokraj/go/src/github.com
+ 3362  cd ashokraj1978
+ 3363  ls
+ 3364  cd grpc-go
+ 3365  ls
+ 3366  cd greet
+ 3367  ls
+ 3368  cd greet_server
+ 3369  ls
+ 3370  go run server.go
+ 3371  go get github.com/ashokraj1978/grpc-go/greet/greepd
+ 3372* mkdir -p /Users/ashokraj/go/src/greet/greepd 
+ 3373  ls
+ 3374  cp *.* /Users/ashokraj/go/src/greet/greepd 
+ 3375  pwd
+ 3376  go run server.go
+ 3377* pwd
+ 3378* cd ..
+ 3379* cd greet
+ 3380* ls
+ 3381* cd greet_server
+ 3382* ls
+ 3383* go run server.go
+ 3384  go env
+ 3385  ls
+ 3386  go run server.go
+ 3387  ls
+ 3388  rm go.
+ 3389  rm go.mod
+ 3390  ls
+ 3391  cat go.sum
+ 3392  rm go.sum
+ 3393  go run server.go
+ 3394  ls
+ 3395  cd /Users/ashokraj/go/src/google.golang.org/grpc
+ 3396  ls
+ 3397* go run server.go
+ 3398  go get -u google.golang.org/grpc
+ 3399  go run server.go
+ 3400  go init mod
+ 3401  go mod init
+ 3402  go mod tidyt
+ 3403  go mod tidy
+ 3404  ls
+ 3405  go run server.go
+ 3406  cd /usr/local/go/src/greet/
+ 3407  mkdir /usr/local/go/src/greet/
+ 3408  sudo mkdir /usr/local/go/src/greet/
+ 3409  sudo mkdir /usr/local/go/src/greet/greetpd
+ 3410  ls
+ 3411  cd ..
+ 3412  ls
+ 3413  go run server.go
+ 3414  pwd
+ 3415  ls
+ 3416  cd greet_server
+ 3417  go run server.go
+ 3418  ls -ltr /usr/local/go/src/greet/greepd
+ 3419  mkdir -p /usr/local/go/src/greet/greepd
+ 3420  sudo mkdir -p /usr/local/go/src/greet/greepd
+ 3421  pwd
+ 3422  ls
+ 3423  cd ..
+ 3424  ls
+ 3425  cd greet
+ 3426  cd greetpd
+ 3427  cp *.* /usr/local/go/src/greet/greepd
+ 3428  sudo cp *.* /usr/local/go/src/greet/greepd
+ 3429  pwd
+ 3430  cd .
+ 3431  cd ..
+ 3432  cd greet_server
+ 3433  ls
+ 3434  go run server.go
+ 3435  cd  /usr/local/go/src/greet/greepd\n
+ 3436  ls
+ 3437  ls -ltr
+ 3438  rm test.go
+ 3439  sudo rm test.go
+ 3440  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd\n
+ 3441  go run server.go
+ 3442  cd ../greet_server
+ 3443  go run server.go
+ 3444  go buil server.go
+ 3445  go build server.go
+ 3446  vi server.go
+ 3447  ls
+ 3448  cd /usr/local/go/src/greet/greepd
+ 3449  ls
+ 3450  sudo vi greet.proto
+ 3451  sudo protoc greet.proto --go-grpc_out=.  --go_out=.  
+ 3452  sudo protoc --go_out=. --go-grpc_out=. --go-grpc_opt=paths=greet.proto
+ 3453  sudo protoc --go_out=. --go_opt=paths=source_relative  --go-grpc_out=. --go-grpc_opt=paths=source_relative greet.proto
+ 3454  sudo protoc --go-grpc_out=. --go_opt=paths=source_relative greet.proto
+ 3455  sudo protoc greet.proto --go-grpc_out=.  --go_out=.  \n
+ 3456  sudo vi greet.proto
+ 3457  sudo protoc greet.proto --go-grpc_out=.  --go_out=.  \n
+ 3458  sudo vi greet.proto
+ 3459  sudo protoc greet.proto --go-grpc_out=.  --go_out=.  \n
+ 3460  ls -ltra
+ 3461  pwd
+ 3462  cd greet
+ 3463  ls
+ 3464  cd greetpd
+ 3465  ls
+ 3466  pwd
+ 3467  cat greet.pb.go
+ 3468  ls
+ 3469  pwd
+ 3470  cd /Users/ashokraj/go/src/github.com/ashokraj1978/grpc-go/greet/greetpd\n
+ 3471  ls
+ 3472  cd ..
+ 3473  cd greet_server
+ 3474  ls
+ 3475  cat server.go
+ 3476  vi server.go
+ 3477  go mod tidy
+ 3478  go build server.go
+ 3479  go mod init
+ 3480  rm go.mod
+ 3481  go mod init
+ 3482  go mod tiday
+ 3483  go mod tidy
+ 3484  go build server.go
+ 3485  go install google.golang.org/grpc/cmd/protoc-gen-go-grpc
+ 3486  go install google.golang.org/grpc
+ 3487  pwd
+ 3488  git status
+ 3489  pwd
+ 3490  cd ..
+ 3491  cd go install google.golang.org/grpc
+ 3492  cd /Users/ashokraj/go/src/github.com/
+ 3493  ls -ltr
+ 3494  rm -rf ashokraj1978
+ 3495  ls
+ 3496  mkdir ashokraj1978
+ 3497  git statys
+ 3498  git status
+ 3499  ls -ltr
+ 3500  cd ashokraj1978
+ 3501  ls -ltr
+ 3502  git init
+ 3503  ls -ltra
+ 3504  git satus
+ 3505  git status
+ 3506  https://github.com/ashokraj1
+ 3507  git clone https://github.com/ashokraj1978/Learn.git
+ 3508  ls -ltr
+ 3509  pwd
+ 3510  ls -ltr
+ 3511  cd Learn
+ 3512  ls
+ 3513  mkdir grpc_learn
+ 3514  cd grpc_learn
+ 3515  ls
+ 3516  mkdir hello_world
+ 3517  cd hello_world
+ 3518  ls
+ 3519  vi helloworld.proto
+ 3520  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3521  ls
+ 3522  cat helloworld.proto
+ 3523  cd helloworld
+ 3524  ls
+ 3525  cd helloworld
+ 3526  ls
+ 3527  cd ..
+ 3528  ls
+ 3529  cd ..
+ 3530  ls
+ 3531  vi helloworld.proto
+ 3532  rm -rf helloworld
+ 3533  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3534  ls
+ 3535  vi helloworld.proto
+ 3536  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3537  vi helloworld.proto
+ 3538  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3539  vi helloworld.proto
+ 3540  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3541  vi helloworld.proto
+ 3542  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3543  vi helloworld.proto
+ 3544  pwd
+ 3545  cd ..
+ 3546  protoc helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3547  protoc hello_world/helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3548  vi hello_world/helloworld.proto
+ 3549  protoc hello_world/helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3550  vi hello_world/helloworld.proto
+ 3551  protoc hello_world/helloworld.proto --go-grpc_out=.  --go_out=. 
+ 3552  ls
+ 3553  cd helloworld
+ 3554  ls
+ 3555  pwd
+ 3556  cd ..
+ 3557  pwd
+ 3558  mkdir greeter_server
+ 3559  cd greeter_server
+ 3560  ls
+ 3561  vi server.go
+ 3562  cd ..
+ 3563  pwd
+ 3564  cd greeter_server
+ 3565  vi server.go
+ 3566  cd ..
+ 3567  go run greeter_server/server.go
+ 3568  pwd
+ 3569  cd helloworld
+ 3570  ls
+ 3571  cd ..
+ 3572  pwd
+ 3573  cd greeter_server
+ 3574  vi server.go
+ 3575  go run greeter_server/server.go
+ 3576  cd ..
+ 3577  go run greeter_server/server.go
+ 3578  history
